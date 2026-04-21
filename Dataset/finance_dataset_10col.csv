@@ -1,0 +1,1001 @@
+﻿Transaction_ID,Transaction_Date,Customer_ID,Transaction_Category,Amount_USD,Currency,Department,Payment_Method,Transaction_Status,Approval_Code
+TXN-000001,2024-04-30,CUST-0154,Revenue,"$19,851.89",USD,Business Development,Credit Card,Failed,
+TXN-000002,2023-11-20,CUST-0019,Operating Expense,"$2,460.01",CAD,Finance,Direct Debit,Completed,APR-45278
+TXN-000003,2024-08-29,CUST-0121,Tax Payment,"$7,485.29",USD,Finance,,Failed,
+TXN-000004,2022-03-19,CUST-0182,Investment,"$21,817.96",USD,Treasury,Credit Card,Completed,APR-58684
+TXN-000005,2024-08-15,CUST-0115,Operating Expense,"$4,489.06",EUR,HR,Bank Transfer,Completed,APR-59108
+TXN-000006,2024-01-30,CUST-0238,Revenue,"$38,143.59",USD,Business Development,Credit Card,Completed,APR-32822
+TXN-000007,2023-05-04,CUST-0011,Tax Payment,"$8,206.98",USD,Finance,Credit Card,Completed,APR-68340
+TXN-000008,2022-04-22,CUST-0266,Capital Expenditure,"$24,575.80",GBP,Operations,Bank Transfer,Completed,APR-60516
+TXN-000009,2024-12-25,CUST-0136,Capital Expenditure,"$32,601.48",USD,Real Estate,Internal Transfer,Completed,APR-88581
+TXN-000010,2022-01-19,CUST-0255,Tax Payment,"$15,022.03",GBP,Finance,Credit Card,Completed,APR-16148
+TXN-000011,2024-07-17,CUST-0011,Operating Expense,"$5,141.19",USD,Finance,Bank Transfer,Completed,APR-66145
+TXN-000012,2024-06-29,CUST-0074,Investment,"$19,950.52",GBP,Treasury,Bank Transfer,Completed,APR-33553
+TXN-000013,2023-08-01,CUST-0002,Loan Repayment,"$4,449.37",USD,Finance,Credit Card,Completed,APR-71494
+TXN-000014,2023-11-26,CUST-0013,Revenue,"$107,546.81",USD,Business Development,Direct Debit,Completed,APR-35682
+TXN-000015,2024-11-12,CUST-0242,Operating Expense,"$1,769.13",USD,HR,Bank Transfer,Completed,APR-77184
+TXN-000016,2023-08-20,CUST-0086,Revenue,"$103,206.64",USD,Sales,Direct Debit,Pending,
+TXN-000017,2024-12-14,CUST-0001,Investment,"$32,812.94",EUR,Business Development,Bank Transfer,Completed,APR-19987
+TXN-000018,2023-12-24,CUST-0056,Tax Payment,"$11,920.99",USD,Finance,Bank Transfer,Completed,APR-56461
+TXN-000019,2022-07-21,CUST-0014,Operating Expense,"$6,711.31",USD,Marketing,Bank Transfer,Completed,APR-32816
+TXN-000020,2024-08-19,CUST-0107,Revenue,"$20,631.62",GBP,Partnerships,Bank Transfer,Completed,APR-50761
+TXN-000021,2023-01-17,CUST-0068,Capital Expenditure,"$52,011.04",GBP,IT,,Pending,
+TXN-000022,2024-01-20,CUST-0031,Capital Expenditure,"$6,280.10",EUR,Real Estate,Credit Card,Pending,
+TXN-000023,2023-04-28,CUST-0018,Operating Expense,"$1,943.14",USD,HR,Bank Transfer,Completed,APR-15598
+TXN-000024,2024-08-22,CUST-0034,Investment,"$62,082.35",USD,Finance,Bank Transfer,Completed,APR-93595
+TXN-000025,2024-08-31,CUST-0010,Tax Payment,"$37,952.08",USD,Finance,Credit Card,Completed,APR-38366
+TXN-000026,2023-01-30,CUST-0006,Loan Repayment,"$12,768.90",GBP,Finance,Bank Transfer,Completed,APR-98036
+TXN-000027,2024-04-08,CUST-0078,Operating Expense,"$2,896.12",EUR,HR,,Pending,
+TXN-000028,2022-07-24,CUST-0207,Capital Expenditure,"$40,131.14",GBP,Operations,,Pending,
+TXN-000029,2023-09-06,CUST-0006,Capital Expenditure,"$24,814.89",USD,Real Estate,Bank Transfer,Completed,APR-51443
+TXN-000030,2022-07-26,CUST-0001,Revenue,"$88,173.94",USD,Business Development,,Pending,
+TXN-000031,2022-10-12,CUST-0158,Revenue,"$30,625.47",USD,Sales,Direct Debit,Completed,APR-40854
+TXN-000032,2023-01-17,CUST-0155,Operating Expense,"$7,171.10",GBP,Marketing,Direct Debit,Completed,APR-90245
+TXN-000033,2023-11-09,CUST-0216,Loan Repayment,"$5,395.26",EUR,Finance,Bank Transfer,Completed,APR-71233
+TXN-000034,2022-06-22,CUST-0168,Refund,"$1,554.45",USD,Sales,Credit Card,Completed,APR-24511
+TXN-000035,2023-02-16,CUST-0001,Tax Payment,"$18,529.64",JPY,Treasurey,Direct Debit,Completed,APR-45378
+TXN-000036,2022-01-18,CUST-0015,Investment,"$28,026.60",CAD,Business Development,Bank Transfer,Completed,APR-82563
+TXN-000037,2024-10-21,CUST-0017,Operating Expense,"$5,974.06",CAD,Operations,Credit Card,Completed,APR-64568
+TXN-000038,2024-01-18,CUST-0003,Operating Expense,"$12,032.17",USD,Marketing,Internal Transfer,Completed,APR-37704
+TXN-000039,2022-11-16,CUST-0182,Investment,"$31,444.10",USD,Treasury,Credit Card,Completed,APR-26226
+TXN-000040,2024-11-12,CUST-0219,Revenue,"$33,589.04",CAD,Sales,Credit Card,Completed,APR-14416
+TXN-000041,2024-01-09,CUST-0066,Operating Expense,"$1,617.61",USD,Finance,Direct Debit,Completed,APR-31422
+TXN-000042,2022-04-11,CUST-0074,Investment,"$11,746.40",USD,Treasury,Credit Card,Completed,APR-72977
+TXN-000043,2023-12-24,CUST-0011,Loan Repayment,"$5,569.28",USD,Finance,Bank Transfer,Completed,APR-25621
+TXN-000044,2024-04-04,CUST-0027,Operating Expense,"$3,130.98",EUR,Operations,Cheque,Completed,APR-33947
+TXN-000045,2024-08-10,CUST-0105,Operating Expense,"$5,594.78",GBP,HR,Credit Card,Pending,
+TXN-000046,2024-09-05,CUST-0035,Revenue,"$56,585.14",JPY,Business Development,Credit Card,Completed,APR-32446
+TXN-000047,2023-03-11,CUST-0147,Tax Payment,"$13,448.60",USD,Legal,Credit Card,Completed,APR-92081
+TXN-000048,2024-12-10,CUST-0016,Investment,"$68,469.37",USD,Business Development,Bank Transfer,Completed,APR-65853
+TXN-000049,2023-10-30,CUST-0016,Tax Payment,"$3,955.93",GBP,Legal,Internal Transfer,Completed,APR-20147
+TXN-000050,2023-03-25,CUST-0159,Capital Expenditure,"$49,781.00",GBP,IT,Bank Transfer,Completed,APR-87066
+TXN-000051,2024-01-16,CUST-0168,Loan Repayment,"$20,651.49",USD,Treasury,Credit Card,Completed,APR-44711
+TXN-000052,2023-08-01,CUST-0001,Revenue,"$42,673.42",GBP,Partnerships,Bank Transfer,Completed,APR-20529
+TXN-000053,2023-01-06,CUST-0202,Investment,"$18,986.19",USD,Treasury,Bank Transfer,Completed,APR-41736
+TXN-000054,2024-11-02,CUST-0112,Capital Expenditure,"$28,450.72",USD,IT,Bank Transfer,Completed,APR-37377
+TXN-000055,2024-11-19,CUST-0084,Revenue,"$79,057.29",USD,Sales,Credit Card,Completed,APR-77837
+TXN-000056,2024-09-07,CUST-0024,Capital Expenditure,"$28,406.35",EUR,Real Estate,Bank Transfer,Completed,APR-80219
+TXN-000057,2023-09-27,CUST-0003,Tax Payment,"$117,368.83",EUR,Finance,Bank Transfer,Completed,APR-12365
+TXN-000058,2024-06-05,CUST-0001,Operating Expense,"$5,176.40",USD,Finance,Internal Transfer,Completed,APR-98730
+TXN-000059,2024-09-17,CUST-0056,Loan Repayment,"$12,648.44",USD,Treasury,Credit Card,Completed,APR-90875
+TXN-000060,2022-06-24,CUST-0202,Investment,"$26,516.35",USD,Finance,Bank Transfer,Completed,APR-67760
+TXN-000061,2023-09-04,CUST-0012,Investment,"$26,560.18",USD,Finance,Bank Transfer,Completed,APR-98910
+TXN-000062,2024-04-05,CUST-0008,Operating Expense,"$5,251.74",EUR,Operations,Internal Transfer,Completed,APR-89726
+TXN-000063,2024-12-15,CUST-0057,Revenue,"$46,573.94",GBP,Sales,,Pending,
+TXN-000064,2024-05-27,CUST-0044,Loan Repayment,"$12,998.11",USD,Treasury,Bank Transfer,Completed,APR-45505
+TXN-000065,2024-04-01,CUST-0216,Operating Expense,"$3,090.34",USD,HR,Bank Transfer,Completed,APR-85675
+TXN-000066,2023-01-08,CUST-0002,Capital Expenditure,"$43,873.42",GBP,IT,Direct Debit,Under Review,
+TXN-000067,2023-04-29,CUST-0012,Refund,$721.29,EUR,Customer Success,Cheque,Completed,APR-78029
+TXN-000068,2022-11-05,CUST-0093,Revenue,"$28,280.58",USD,Sales,Direct Debit,Completed,APR-67841
+TXN-000069,2023-05-12,CUST-0016,Capital Expenditure,"$17,165.73",USD,IT,Crypto,Pending,
+TXN-000070,2024-06-07,CUST-0284,Investment,"$19,853.26",USD,Business Development,Internal Transfer,Completed,APR-70905
+TXN-000071,2024-12-02,CUST-0238,Loan Repayment,"$17,344.76",GBP,Treasury,Bank Transfer,Completed,APR-80421
+TXN-000072,2022-02-11,CUST-0057,Operating Expense,"$9,628.50",USD,Marketing,Bank Transfer,Completed,APR-55124
+TXN-000073,2023-05-22,CUST-0235,Investment,"$42,687.66",USD,Finance,Bank Transfer,Pending,
+TXN-000074,2022-04-26,CUST-0045,Operating Expense,"$2,558.33",EUR,IT,Internal Transfer,Under Review,
+TXN-000075,2024-10-04,CUST-0042,Operating Expense,"$11,433.89",EUR,Operations,Bank Transfer,Completed,APR-42127
+TXN-000076,2024-05-18,CUST-0008,Loan Repayment,"$5,661.02",JPY,Treasury,Credit Card,Completed,APR-77089
+TXN-000077,2024-08-29,CUST-0034,Operating Expense,"$9,698.60",USD,HR,Bank Transfer,Completed,APR-89677
+TXN-000078,2024-11-04,CUST-0140,Revenue,"$131,047.35",USD,Partnerships,Bank Transfer,Failed,
+TXN-000079,2022-10-26,CUST-0001,Revenue,"$33,644.69",EUR,Sales,Credit Card,Failed,
+TXN-000080,2023-11-03,CUST-0212,Investment,"$21,362.30",USD,Business Development,Internal Transfer,Pending,APR-94202
+TXN-000081,2024-01-13,CUST-0068,Revenue,"$166,086.71",USD,Business Development,Bank Transfer,Completed,APR-19121
+TXN-000082,2023-12-16,CUST-0064,Capital Expenditure,"$13,219.61",USD,IT,Bank Transfer,Completed,APR-32463
+TXN-000083,2024-06-08,CUST-0094,Operating Expense,"$4,477.51",EUR,Finance,Bank Transfer,Completed,APR-88941
+TXN-000084,2024-08-26,CUST-0258,Operating Expense,"$5,199.23",GBP,Operations,Credit Card,Completed,APR-40867
+TXN-000085,2023-02-17,CUST-0044,Loan Repayment,"$12,844.28",GBP,Treasury,Credit Card,Completed,APR-79223
+TXN-000086,2022-08-10,CUST-0015,Refund,$878.31,EUR,Sales,Credit Card,Completed,APR-26430
+TXN-000087,2024-03-12,CUST-0009,Tax Payment,"$9,939.48",GBP,Legal,Bank Transfer,Completed,APR-78608
+TXN-000088,2023-02-27,CUST-0038,Investment,"$224,287.02",USD,Treasury,,Failed,
+TXN-000089,2024-08-30,CUST-0131,Revenue,"$54,739.51",USD,Business Development,Credit Card,Completed,APR-96442
+TXN-000090,2023-10-29,CUST-0007,Operating Expense,"$14,699.19",USD,Marketing,Direct Debit,Completed,APR-48153
+TXN-000091,2024-05-16,CUST-0105,Refund,$960.79,USD,Customer Success,Bank Transfer,Completed,APR-12149
+TXN-000092,2023-07-08,CUST-0004,Revenue,"$37,662.19",USD,Business Development,Bank Transfer,Completed,APR-46967
+TXN-000093,2022-08-07,CUST-0040,Capital Expenditure,"$9,707.51",USD,Operations,Bank Transfer,Completed,APR-60483
+TXN-000094,2023-05-06,CUST-0035,Revenue,"$95,101.87",GBP,Partnerships,Crypto,Completed,APR-34351
+TXN-000095,2022-11-10,CUST-0097,Operating Expense,"$6,032.80",USD,Operations,Bank Transfer,Completed,APR-97959
+TXN-000096,2023-02-14,CUST-0128,Refund,$326.03,GBP,Sales,Bank Transfer,Failed,
+TXN-000097,2024-01-11,CUST-0183,Revenue,"$80,247.54",USD,Sales,Bank Transfer,Completed,APR-88431
+TXN-000098,2023-07-08,CUST-0171,Capital Expenditure,"$11,002.93",EUR,Operations,Bank Transfer,Completed,APR-16848
+TXN-000099,2024-06-28,CUST-0220,Revenue,"$37,628.35",USD,Partnerships,Credit Card,Completed,APR-19455
+TXN-000100,2024-04-10,CUST-0033,Capital Expenditure,"$17,313.22",GBP,Operations,Internal Transfer,Completed,APR-88684
+TXN-000101,2024-07-17,CUST-0173,Operating Expense,"$8,687.35",GBP,Operatins,Direct Debit,Completed,APR-35924
+TXN-000102,2024-08-02,CUST-0017,Operating Expense,"$8,436.86",USD,HR,,Pending,
+TXN-000103,2023-12-26,CUST-0186,Investment,"$19,980.70",USD,Treasury,Bank Transfer,Completed,APR-43038
+TXN-000104,2023-03-15,CUST-0015,Revenue,"$54,524.87",GBP,Partnerships,Internal Transfer,Completed,APR-57348
+TXN-000105,2024-12-28,CUST-0176,Refund,$617.19,USD,Sales,Cheque,Completed,APR-27391
+TXN-000106,2022-08-12,CUST-0204,Revenue,"$54,648.31",EUR,Partnerships,Credit Card,Completed,APR-30257
+TXN-000107,2023-09-09,CUST-0005,Investment,"$25,041.92",CAD,Business Development,Bank Transfer,Failed,
+TXN-000108,2022-10-28,CUST-0005,Revenue,"$42,647.47",GBP,Business Development,Bank Transfer,Completed,APR-73221
+TXN-000109,2023-12-08,CUST-0040,Revenue,"$55,369.40",USD,Sales,Direct Debit,Completed,APR-55743
+TXN-000110,2024-08-15,CUST-0023,Capital Expenditure,"$53,234.95",USD,Real Estate,Bank Transfer,Completed,APR-84550
+TXN-000111,2023-11-07,CUST-0254,Operating Expense,"$4,539.95",USD,IT,Bank Transfer,Completed,APR-70708
+TXN-000112,2023-09-28,CUST-0275,Loan Repayment,"$8,848.39",EUR,Finance,Bank Transfer,Completed,APR-32065
+TXN-000113,2023-06-12,CUST-0043,Tax Payment,"$25,552.98",CAD,Finance,Credit Card,Pending,
+TXN-000114,2022-06-20,CUST-0221,Capital Expenditure,"$28,454.52",USD,Operations,Bank Transfer,Completed,APR-98264
+TXN-000115,2024-06-11,CUST-0201,Operating Expense,"$8,794.55",CAD,IT,,Pending,
+TXN-000116,2024-07-03,CUST-0273,Operating Expense,"$3,711.44",USD,Marketing,Direct Debit,Completed,APR-97563
+TXN-000117,2024-03-13,CUST-0003,Operating Expense,"$9,318.45",USD,Operations,Direct Debit,Completed,APR-46463
+TXN-000118,2024-10-24,CUST-0020,Revenue,"$85,421.49",USD,Business Development,,Pending,
+TXN-000119,2022-09-25,CUST-0084,Revenue,"$79,149.07",CAD,Business Development,Bank Transfer,Completed,APR-90106
+TXN-000120,2023-01-02,CUST-0221,Revenue,"$67,352.57",JPY,Business Development,Credit Card,Completed,APR-76471
+TXN-000121,2024-09-15,CUST-0004,Refund,"$2,261.12",USD,Sales,Direct Debit,Completed,APR-87734
+TXN-000122,2024-04-21,CUST-0024,Tax Payment,"$11,605.55",EUR,Legal,Bank Transfer,Completed,APR-23319
+TXN-000123,2023-12-17,CUST-0002,Capital Expenditure,"$15,819.90",JPY,Real Estate,Bank Transfer,Completed,APR-73235
+TXN-000124,2024-07-19,CUST-0024,Operating Expense,"$3,569.61",USD,IT,Bank Transfer,Completed,APR-85012
+TXN-000125,2024-07-22,CUST-0081,Operating Expense,"$4,216.04",USD,Marketing,Bank Transfer,Completed,APR-26405
+TXN-000126,2024-01-21,CUST-0226,Capital Expenditure,"$36,669.81",EUR,Real Estate,Bank Transfer,Completed,APR-72361
+TXN-000127,2024-05-15,CUST-0060,Revenue,"$97,981.07",GBP,Sales,Cheque,Completed,APR-46467
+TXN-000128,2023-03-06,CUST-0064,Investment,"$15,563.10",USD,Treasury,Internal Transfer,Completed,APR-94937
+TXN-000129,2024-05-26,CUST-0276,Capital Expenditure,"$14,764.34",USD,Operations,Cheque,Completed,APR-43702
+TXN-000130,2023-08-24,CUST-0029,Revenue,"$26,429.92",GBP,Business Development,Direct Debit,Completed,APR-70208
+TXN-000131,2024-03-16,CUST-0114,Revenue,"$117,651.82",EUR,Business Development,Bank Transfer,Pending,
+TXN-000132,2024-03-01,CUST-0027,Operating Expense,"$4,495.57",USD,Finance,Credit Card,Completed,APR-32678
+TXN-000133,2024-03-10,CUST-0017,Loan Repayment,"$9,314.69",USD,Finance,Direct Debit,Completed,APR-38186
+TXN-000134,2024-05-26,CUST-0027,Operating Expense,"$7,155.13",USD,IT,Credit Card,Completed,APR-91584
+TXN-000135,2022-06-20,CUST-0022,Refund,$737.94,USD,Customer Success,Credit Card,Completed,APR-49874
+TXN-000136,2023-01-17,CUST-0016,Revenue,"$26,406.06",USD,Partnerships,Bank Transfer,Under Review,
+TXN-000137,2023-05-05,CUST-0003,Revenue,"$46,043.11",GBP,Partnerships,Credit Card,Completed,APR-78389
+TXN-000138,2024-12-08,CUST-0021,Revenue,"$113,617.71",EUR,Partnerships,Internal Transfer,Failed,
+TXN-000139,2024-04-18,CUST-0002,Revenue,"$84,638.40",EUR,Partnerships,Direct Debit,Completed,APR-12307
+TXN-000140,2022-11-25,CUST-0034,Revenue,"$46,278.18",USD,Partnerships,Bank Transfer,Completed,APR-57783
+TXN-000141,2024-05-08,CUST-0035,Capital Expenditure,"$26,915.41",GBP,Real Estate,Cheque,Completed,APR-11869
+TXN-000142,2024-09-09,CUST-0056,Revenue,"$51,780.86",USD,Business Development,Credit Card,Completed,APR-59661
+TXN-000143,2024-10-22,CUST-0216,Operating Expense,"$7,464.20",USD,HR,Direct Debit,Completed,APR-26705
+TXN-000144,2023-01-12,CUST-0182,Operating Expense,"$3,873.78",EUR,Marketing,Bank Transfer,Completed,APR-91503
+TXN-000145,2024-11-25,CUST-0027,Operating Expense,"$7,034.03",USD,IT,Direct Debit,Completed,APR-80343
+TXN-000146,2023-02-12,CUST-0138,Refund,"$1,171.27",USD,Sales,Credit Card,Failed,
+TXN-000147,2022-10-27,CUST-0078,Revenue,"$32,352.97",USD,Business Development,Internal Transfer,Completed,APR-21814
+TXN-000148,2024-03-27,CUST-0264,Capital Expenditure,"$33,361.16",USD,IT,Direct Debit,Completed,APR-28223
+TXN-000149,2022-03-31,CUST-0297,Revenue,"$50,015.93",EUR,Partnerships,Credit Card,Completed,APR-61003
+TXN-000150,2024-08-06,CUST-0247,Revenue,"$44,426.78",USD,Business Development,Direct Debit,Completed,APR-77255
+TXN-000151,2022-10-10,CUST-0002,Operating Expense,"$10,522.07",USD,IT,Bank Transfer,Completed,APR-85101
+TXN-000152,2022-07-08,CUST-0239,Revenue,"$49,621.46",USD,Sales,Direct Debit,Completed,APR-89390
+TXN-000153,2024-08-24,CUST-0114,Operating Expense,"$2,923.08",USD,HR,Bank Transfer,Completed,APR-33814
+TXN-000154,2024-12-06,CUST-0149,Refund,$768.31,GBP,Finance,,Failed,
+TXN-000155,2024-07-10,CUST-0079,Operating Expense,"$7,076.63",USD,IT,Bank Transfer,Completed,APR-35519
+TXN-000156,2024-08-24,CUST-0197,Revenue,"$9,371,647.14",CAD,Partnerships,Direct Debit,Completed,APR-30457
+TXN-000157,2024-11-18,CUST-0269,Operating Expense,"$4,163.79",USD,Marketing,Credit Card,Completed,APR-13180
+TXN-000158,2023-09-08,CUST-0071,Investment,"$26,487.99",EUR,Business Development,Cheque,Completed,APR-77083
+TXN-000159,2023-05-29,CUST-0001,Tax Payment,"$31,540.08",USD,Finance,Internal Transfer,Completed,APR-23494
+TXN-000160,2024-05-29,CUST-0001,Operating Expense,"$2,713.07",JPY,Marketing,Credit Card,Completed,APR-73156
+TXN-000161,2024-03-24,CUST-0065,Revenue,"$53,974.97",CAD,Business Development,Direct Debit,Completed,APR-23713
+TXN-000162,2024-05-11,CUST-0187,Operating Expense,"$6,177.70",USD,Marketing,Bank Transfer,Completed,APR-89435
+TXN-000163,2024-06-03,CUST-0148,Revenue,"$33,892.40",EUR,Sales,Credit Card,Completed,APR-66869
+TXN-000164,2024-06-04,CUST-0005,Investment,"$77,815.19",USD,Finance,Credit Card,Completed,APR-49976
+TXN-000165,2023-01-30,CUST-0007,Investment,"$28,487.81",USD,Business Development,Credit Card,Completed,APR-97151
+TXN-000166,2022-07-02,CUST-0096,Revenue,"$114,085.85",EUR,Partnerships,Bank Transfer,Failed,
+TXN-000167,2023-12-02,CUST-0005,Refund,"$1,304.10",GBP,Sales,Direct Debit,Pending,
+TXN-000168,2024-11-20,CUST-0002,Operating Expense,"$3,083.50",USD,Operations,Internal Transfer,Completed,APR-86573
+TXN-000169,2024-06-20,CUST-0031,Loan Repayment,"$8,511.10",GBP,Treasury,Direct Debit,Completed,APR-78116
+TXN-000170,2022-11-11,CUST-0007,Revenue,"$79,673.63",EUR,Partnerships,Direct Debit,Failed,
+TXN-000171,2022-06-01,CUST-0208,Operating Expense,"$2,815.25",USD,HR,Cheque,Pending,
+TXN-000172,2024-02-15,CUST-0012,Operating Expense,"$3,685.41",USD,Finance,Credit Card,Completed,APR-90266
+TXN-000173,2024-02-15,CUST-0009,Tax Payment,"$13,891.46",CAD,Legal,Direct Debit,Completed,APR-20988
+TXN-000174,2024-05-02,CUST-0148,Revenue,"$26,431.60",USD,Sales,Direct Debit,Completed,APR-69639
+TXN-000175,2023-02-26,CUST-0023,Tax Payment,"$81,572.18",GBP,Legal,Direct Debit,Completed,APR-85805
+TXN-000176,2023-10-13,CUST-0028,Revenue,"$143,103.77",GBP,Partnerships,Crypto,Completed,APR-87045
+TXN-000177,2024-05-22,CUST-0079,Capital Expenditure,"$84,174.34",USD,Real Estate,,Pending,
+TXN-000178,2022-11-03,CUST-0003,Tax Payment,"$20,754.17",EUR,Legal,Direct Debit,Completed,APR-42014
+TXN-000179,2022-12-14,CUST-0096,Loan Repayment,"$7,979.46",USD,Treasury,Bank Transfer,Completed,APR-55187
+TXN-000180,2023-10-03,CUST-0247,Operating Expense,"$5,300.32",USD,Finance,Credit Card,Completed,APR-52445
+TXN-000181,2023-03-08,CUST-0008,Revenue,"$65,084.63",GBP,Partnerships,Crypto,Completed,APR-23475
+TXN-000182,2024-11-05,CUST-0264,Operating Expense,"$1,571.21",USD,Finance,Bank Transfer,Completed,APR-98791
+TXN-000183,2022-12-18,CUST-0009,Revenue,"$38,879.56",GBP,Partnerships,Cheque,Completed,APR-13246
+TXN-000184,2023-08-24,CUST-0088,Investment,"$12,421,314.94",GBP,Business Development,Credit Card,Completed,APR-94308
+TXN-000185,2024-08-23,CUST-0111,Investment,"$50,148.65",USD,Treasury,Credit Card,Completed,APR-25643
+TXN-000186,2022-04-04,CUST-0225,Capital Expenditure,"$15,289.75",CAD,IT,Credit Card,Completed,APR-31141
+TXN-000187,2024-04-27,CUST-0036,Loan Repayment,"$6,416.36",EUR,Finance,Credit Card,Completed,APR-41985
+TXN-000188,2022-02-06,CUST-0282,Revenue,"$21,454.12",USD,Sales,Bank Transfer,Completed,APR-47282
+TXN-000185,2024-11-11,CUST-0069,Revenue,"$32,227.48",JPY,Business Development,Credit Card,Completed,APR-83762
+TXN-000190,2022-08-25,CUST-0291,Revenue,"$25,159.34",USD,Sales,Direct Debit,Under Review,APR-39990
+TXN-000191,2022-10-24,CUST-0195,Revenue,"$73,897.72",CAD,Partnerships,Bank Transfer,Pending,
+TXN-000192,2024-03-08,CUST-0054,Loan Repayment,"$9,213.62",USD,Finance,Cheque,Completed,APR-15818
+TXN-000193,2024-09-14,CUST-0129,Revenue,"$100,760.15",USD,Sales,Bank Transfer,Completed,APR-50502
+TXN-000194,2023-10-01,CUST-0002,Operating Expense,"$3,691.07",USD,Marketing,Credit Card,Completed,APR-38630
+TXN-000195,2023-10-29,CUST-0148,Revenue,"$24,846.09",USD,Business Development,Bank Transfer,Failed,
+TXN-000196,2024-09-06,CUST-0008,Refund,$583.47,USD,Customer Success,Crypto,Completed,APR-97697
+TXN-000197,2023-12-10,CUST-0168,Operating Expense,"$9,596.04",GBP,Finance,Bank Transfer,Completed,APR-70587
+TXN-000198,2023-10-25,CUST-0006,Operating Expense,"$6,244.21",USD,Finance,Direct Debit,Completed,APR-43468
+TXN-000199,2023-04-30,CUST-0003,Capital Expenditure,"$12,645.01",USD,Real Estate,Internal Transfer,Completed,APR-17481
+TXN-000200,2023-07-16,CUST-0080,Operating Expense,"$6,016.74",JPY,IT,Bank Transfer,Completed,APR-33129
+TXN-000201,2023-06-08,CUST-0059,Tax Payment,"$11,470.10",GBP,Finance,Direct Debit,Completed,APR-37049
+TXN-000202,2024-02-02,CUST-0097,Loan Repayment,"$12,890.06",GBP,Finance,Direct Debit,Pending,
+TXN-000203,2024-07-27,CUST-0189,Revenue,"$45,337.91",USD,Business Development,Bank Transfer,Completed,APR-20957
+TXN-000204,2024-06-10,CUST-0170,Investment,"$21,802.37",GBP,Treasury,Direct Debit,Completed,APR-60010
+TXN-000205,2024-05-06,CUST-0089,Refund,"$1,486.11",USD,Sales,Crypto,Completed,APR-34135
+TXN-000206,2024-11-12,CUST-0008,Operating Expense,"$2,595.49",GBP,IT,Internal Transfer,Completed,APR-79843
+TXN-000207,2024-09-28,CUST-0009,Revenue,"$98,768.85",USD,Business Development,Bank Transfer,Completed,APR-67272
+TXN-000208,2024-11-09,CUST-0019,Tax Payment,"$29,255.23",EUR,Legal,Bank Transfer,Completed,APR-91729
+TXN-000209,2022-04-12,CUST-0069,Operating Expense,"$12,897.99",GBP,HR,Bank Transfer,Completed,APR-29209
+TXN-000210,2023-08-18,CUST-0064,Operating Expense,"$5,151.42",GBP,HR,Credit Card,Completed,APR-37432
+TXN-000211,2024-02-15,CUST-0008,Operating Expense,"$9,017.83",USD,Marketing,Credit Card,Completed,APR-84586
+TXN-000212,2023-10-26,CUST-0159,Loan Repayment,"$19,294.00",GBP,Treasury,Direct Debit,Completed,APR-66027
+TXN-000213,2024-05-06,CUST-0246,Revenue,"$101,167.54",EUR,Business Development,Credit Card,Completed,APR-49094
+TXN-000214,2024-12-23,CUST-0060,Operating Expense,"$4,287.39",USD,Finance,Direct Debit,Completed,APR-23938
+TXN-000215,2022-10-26,CUST-0093,Operating Expense,"$1,048.20",JPY,HR,Credit Card,Completed,APR-20932
+TXN-000216,2023-06-14,CUST-0178,Operating Expense,"$4,526.26",USD,IT,Bank Transfer,Completed,APR-18978
+TXN-000217,2024-11-29,CUST-0203,Revenue,"$45,204.97",CAD,Business Development,Bank Transfer,Completed,APR-53445
+TXN-000218,2023-09-21,CUST-0014,Refund,"$3,985.53",USD,Sales,Internal Transfer,Completed,APR-73990
+TXN-000219,2023-09-11,CUST-0018,Tax Payment,"$6,670.85",CAD,Legal,Internal Transfer,Completed,APR-28906
+TXN-000220,2024-10-01,CUST-0023,Investment,"$5,864.84",GBP,Treasury,Bank Transfer,Completed,APR-40414
+TXN-000221,2022-04-11,CUST-0039,Capital Expenditure,"$14,354.58",USD,Real Estate,Credit Card,Completed,APR-76142
+TXN-000222,2022-09-03,CUST-0122,Revenue,"$150,521.95",EUR,Partnerships,Credit Card,Completed,APR-20239
+TXN-000223,2022-09-14,CUST-0120,Capital Expenditure,"$51,088.70",USD,Operations,Bank Transfer,Completed,APR-19049
+TXN-000224,2024-12-24,CUST-0072,Tax Payment,"$24,528.33",GBP,Finance,Credit Card,Completed,APR-62350
+TXN-000225,2022-07-13,CUST-0030,Capital Expenditure,"$24,890.11",GBP,Operations,Credit Card,Completed,APR-42372
+TXN-000226,2023-08-27,CUST-0089,Tax Payment,"$20,165.78",USD,Legal,Bank Transfer,Completed,APR-77185
+TXN-000227,2024-10-16,CUST-0017,Revenue,"$131,988.83",JPY,Partnerships,Bank Transfer,Completed,APR-48319
+TXN-000228,2023-08-08,CUST-0127,Investment,"$36,944.07",GBP,Finance,Bank Transfer,Completed,APR-72023
+TXN-000229,2022-03-02,CUST-0165,Revenue,"$58,214.44",JPY,Sales,Cheque,Completed,APR-36110
+TXN-000230,2023-09-14,CUST-0021,Revenue,"$22,920.93",USD,Partnerships,Internal Transfer,Completed,APR-83412
+TXN-000231,2022-07-03,CUST-0238,Revenue,"$34,617.46",USD,Sales,Credit Card,Completed,APR-53283
+TXN-000232,2024-02-22,CUST-0257,Tax Payment,"$31,469.97",GBP,Legal,Bank Transfer,Completed,APR-86895
+TXN-000233,2023-10-31,CUST-0267,Operating Expense,"$6,141.61",JPY,Finance,Bank Transfer,Completed,APR-66589
+TXN-000234,2023-07-09,CUST-0163,Operating Expense,"$3,916.89",USD,Operations,Internal Transfer,Completed,APR-87206
+TXN-000235,2024-09-15,CUST-0019,Capital Expenditure,"$21,070.94",EUR,IT,Bank Transfer,Completed,APR-89179
+TXN-000236,2024-10-30,CUST-0001,Investment,"$13,596.50",GBP,Treasury,Crypto,Completed,APR-52750
+TXN-000231,2023-11-27,CUST-0004,Revenue,"$55,653.57",USD,Business Development,Bank Transfer,Completed,APR-32389
+TXN-000238,2023-10-12,CUST-0210,Tax Payment,"$6,526.42",CAD,Finance,Credit Card,Completed,APR-68798
+TXN-000239,2024-11-04,CUST-0003,Revenue,"$95,215.34",USD,Business Development,Bank Transfer,Completed,APR-27803
+TXN-000240,2024-10-07,CUST-0277,Capital Expenditure,"$43,362.52",USD,Real Estate,Internal Transfer,Completed,APR-40235
+TXN-000241,2024-09-13,CUST-0127,Revenue,"$103,862.46",USD,Partnerships,Credit Card,Completed,APR-28578
+TXN-000242,2024-04-07,CUST-0141,Operating Expense,"$4,679.40",USD,Operations,Bank Transfer,Completed,APR-63483
+TXN-000243,2023-12-31,CUST-0073,Revenue,"$16,372.99",USD,Partnerships,Direct Debit,Completed,APR-70838
+TXN-000244,2024-12-07,CUST-0080,Operating Expense,"$6,999.92",USD,Finance,Bank Transfer,Under Review,
+TXN-000245,2023-04-28,CUST-0071,Loan Repayment,"$34,093.91",GBP,Treasury,Credit Card,Completed,APR-58991
+TXN-000246,2023-05-14,CUST-0247,Capital Expenditure,"$16,137.47",JPY,Real Estate,Bank Transfer,Completed,APR-59751
+TXN-000247,2022-08-03,CUST-0001,Refund,$799.67,USD,Sales,Bank Transfer,Completed,APR-55960
+TXN-000248,2023-08-28,CUST-0272,Revenue,"$50,773.91",GBP,Partnerships,Credit Card,Completed,APR-19883
+TXN-000249,2023-12-18,CUST-0196,Operating Expense,"$13,086.90",CAD,IT,Bank Transfer,Completed,APR-91375
+TXN-000250,2022-08-08,CUST-0003,Revenue,"$25,610.75",GBP,Business Development,Bank Transfer,Completed,APR-77480
+TXN-000251,2023-06-15,CUST-0103,Revenue,"$28,680.33",JPY,Business Development,,Pending,APR-74325
+TXN-000252,2023-09-17,CUST-0078,Capital Expenditure,"$13,544.76",EUR,IT,Direct Debit,Completed,APR-78135
+TXN-000253,2024-12-24,CUST-0036,Refund,"$2,294.84",GBP,Sales,Direct Debit,Completed,APR-98863
+TXN-000254,2024-12-16,CUST-0265,Loan Repayment,"$8,760.51",EUR,Finance,Bank Transfer,Completed,APR-80006
+TXN-000255,2022-08-27,CUST-0050,Investment,"$19,675.75",USD,Treasury,Bank Transfer,Completed,APR-12814
+TXN-000256,2023-09-06,CUST-0007,Refund,"$1,014.59",GBP,Sales,Bank Transfer,Completed,APR-67966
+TXN-000257,2024-07-29,CUST-0112,Capital Expenditure,"$27,723.79",USD,IT,Bank Transfer,Completed,APR-98866
+TXN-000258,2024-03-13,CUST-0113,Refund,$327.99,USD,Customer Success,Credit Card,Failed,
+TXN-000259,2024-05-27,CUST-0005,Capital Expenditure,"$9,922.09",USD,Real Estate,Direct Debit,Completed,APR-79661
+TXN-000260,2024-09-22,CUST-0001,Revenue,"$272,784.49",USD,Sales,Bank Transfer,Completed,APR-17486
+TXN-000261,2023-07-09,CUST-0021,Operating Expense,"$5,610.70",GBP,Finance,,Pending,
+TXN-000262,2024-05-23,CUST-0179,Operating Expense,"$16,482.13",USD,IT,,Pending,
+TXN-000263,2024-04-03,CUST-0266,Operating Expense,"$1,920.96",USD,HR,Direct Debit,Completed,APR-67888
+TXN-000264,2022-05-30,CUST-0209,Refund,"$1,864.18",GBP,Customer Success,Bank Transfer,Completed,APR-87368
+TXN-000265,2024-04-24,CUST-0007,Loan Repayment,"$14,639.06",USD,Finance,Bank Transfer,Completed,APR-92147
+TXN-000266,2022-05-01,CUST-0177,Revenue,"$30,915.08",USD,Partnerships,Direct Debit,Completed,APR-63785
+TXN-000267,2023-02-10,CUST-0088,Revenue,"$88,615.49",USD,Business Development,Credit Card,Completed,APR-72898
+TXN-000268,2022-08-19,CUST-0018,Loan Repayment,"$6,633.35",GBP,Finance,Internal Transfer,Completed,APR-12421
+TXN-000269,2023-02-12,CUST-0264,Tax Payment,"$3,507.45",JPY,Finance,Direct Debit,Completed,APR-34582
+TXN-000270,2024-11-27,CUST-0008,Investment,"$18,247.92",USD,Finance,Credit Card,Completed,APR-39490
+TXN-000271,2024-09-24,CUST-0057,Operating Expense,"$4,994.42",EUR,Marketing,Credit Card,Pending,APR-79834
+TXN-000272,2023-04-29,CUST-0020,Operating Expense,"$9,615.35",USD,HR,Bank Transfer,Completed,APR-94947
+TXN-000273,2024-11-29,CUST-0017,Revenue,"$27,877.93",GBP,Business Development,Direct Debit,Completed,APR-60908
+TXN-000274,2022-09-06,CUST-0238,Operating Expense,"$4,275.28",USD,IT,,Pending,
+TXN-000275,2022-12-05,CUST-0214,Revenue,"$25,628.79",GBP,Partnerships,Bank Transfer,Completed,APR-95026
+TXN-000276,2023-10-19,CUST-0079,Operating Expense,"$7,667.04",USD,IT,Direct Debit,Pending,
+TXN-000277,2022-05-08,CUST-0007,Operating Expense,"$7,107.81",GBP,Operations,Credit Card,Completed,APR-60190
+TXN-000278,2023-09-05,CUST-0023,Revenue,"$43,738.60",CAD,Partnerships,Internal Transfer,Completed,APR-95221
+TXN-000279,2024-02-03,CUST-0003,Operating Expense,"$5,566.72",JPY,HR,Bank Transfer,Completed,APR-96294
+TXN-000280,2024-07-24,CUST-0185,Operating Expense,"$5,110.08",CAD,Finance,Bank Transfer,Pending,
+TXN-000281,2024-07-13,CUST-0003,Tax Payment,"$46,289.99",USD,Finance,Bank Transfer,Completed,APR-18330
+TXN-000282,2024-12-31,CUST-0255,Loan Repayment,"$23,920.17",GBP,Treasury,Internal Transfer,Completed,APR-86660
+TXN-000283,2023-12-28,CUST-0051,Refund,"$3,358.91",USD,Finance,Bank Transfer,Completed,APR-85034
+TXN-000280,2024-09-02,CUST-0094,Operating Expense,"$2,812.72",USD,Finance,Bank Transfer,Completed,APR-92989
+TXN-000285,2024-06-11,CUST-0003,Operating Expense,"$6,213.88",USD,Operations,Internal Transfer,Completed,APR-72816
+TXN-000286,2024-07-16,CUST-0219,Revenue,"$69,639.89",EUR,Partnerships,Bank Transfer,Completed,APR-14183
+TXN-000287,2023-04-29,CUST-0052,Operating Expense,"$10,833.14",USD,Operations,Bank Transfer,Failed,
+TXN-000288,2024-01-31,CUST-0072,Operating Expense,"$3,406.23",USD,HR,Bank Transfer,Completed,APR-64108
+TXN-000289,2024-08-16,CUST-0041,Loan Repayment,"$9,300.32",GBP,Finance,Internal Transfer,Completed,APR-82841
+TXN-000290,2024-01-12,CUST-0194,Revenue,"$20,766.82",EUR,Sales,Bank Transfer,Completed,APR-62933
+TXN-000291,2024-09-20,CUST-0187,Revenue,"$32,747.80",EUR,Partnerships,Bank Transfer,Completed,APR-27583
+TXN-000292,2023-12-05,CUST-0279,Revenue,"$88,815.67",USD,Sales,Credit Card,Completed,APR-11326
+TXN-000293,2023-03-10,CUST-0003,Operating Expense,"$9,120.29",USD,Operations,Internal Transfer,Completed,APR-51325
+TXN-000294,2022-08-21,CUST-0137,Revenue,"$29,670.11",USD,Partnerships,Credit Card,Completed,APR-80345
+TXN-000295,2023-03-17,CUST-0089,Investment,"$14,671.47",USD,Business Development,Bank Transfer,Completed,APR-52079
+TXN-000296,2024-03-16,CUST-0002,Tax Payment,"$13,240.09",GBP,Legal,Bank Transfer,Completed,APR-35551
+TXN-000297,2023-10-24,CUST-0005,Refund,$685.74,USD,Sales,Cheque,Completed,APR-45332
+TXN-000298,2024-06-24,CUST-0106,Loan Repayment,"$28,875.75",EUR,Treasury,Direct Debit,Completed,APR-57763
+TXN-000299,2023-08-01,CUST-0127,Operating Expense,"$3,618.71",USD,HR,Bank Transfer,Completed,APR-26004
+TXN-000300,2024-07-18,CUST-0248,Revenue,"$82,532.43",USD,Partnerships,,Pending,
+TXN-000301,2023-05-31,CUST-0023,Operating Expense,"$8,807.69",USD,Finance,Credit Card,Completed,APR-48763
+TXN-000302,2024-12-15,CUST-0143,Operating Expense,"$8,045.49",EUR,Finance,Credit Card,Completed,APR-70271
+TXN-000303,2023-05-06,CUST-0119,Operating Expense,"$3,245.62",USD,HR,Cheque,Completed,APR-58411
+TXN-000304,2024-09-26,CUST-0025,Operating Expense,"$2,996.46",USD,IT,Bank Transfer,Pending,
+TXN-000303,2023-09-24,CUST-0089,Operating Expense,"$3,911.62",USD,Operations,Direct Debit,Completed,APR-61215
+TXN-000306,2023-03-01,CUST-0038,Operating Expense,"$5,256.93",GBP,IT,Bank Transfer,Completed,APR-98596
+TXN-000307,2024-12-02,CUST-0014,Loan Repayment,"$6,608.77",USD,Treasury,Bank Transfer,Failed,
+TXN-000308,2023-08-16,CUST-0235,Capital Expenditure,"$30,502.29",USD,IT,Direct Debit,Completed,APR-13658
+TXN-000309,2024-06-08,CUST-0284,Operating Expense,"$6,135.94",GBP,IT,,Pending,APR-86344
+TXN-000310,2022-11-14,CUST-0150,Revenue,"$103,167.20",USD,Sales,Internal Transfer,Completed,APR-77209
+TXN-000311,2024-12-07,CUST-0189,Investment,"$26,588.69",GBP,Business Development,Cheque,Completed,APR-15791
+TXN-000312,2022-10-03,CUST-0110,Revenue,"$110,491.30",USD,Sales,Credit Card,Completed,APR-78542
+TXN-000313,2024-10-05,CUST-0195,Refund,"$1,225.39",USD,Sales,Bank Transfer,Pending,
+TXN-000314,2022-02-08,CUST-0082,Refund,$620.48,USD,Customer Success,Bank Transfer,Completed,APR-51610
+TXN-000315,2023-05-26,CUST-0003,Operating Expense,"$13,176.80",USD,Finance,Internal Transfer,Completed,APR-75656
+TXN-000316,2023-11-08,CUST-0187,Revenue,"$46,276.07",USD,Partnerships,Cheque,Completed,APR-48013
+TXN-000317,2024-06-05,CUST-0131,Revenue,"$58,538.64",USD,Sales,,Pending,
+TXN-000318,2024-05-21,CUST-0152,Operating Expense,"$14,528.28",USD,HR,Credit Card,Completed,APR-15938
+TXN-000319,2023-04-10,CUST-0030,Capital Expenditure,"$14,517.49",USD,Operations,Cheque,Completed,APR-71946
+TXN-000320,2022-06-17,CUST-0038,Capital Expenditure,"$26,387.06",USD,Real Estate,Bank Transfer,Completed,APR-34396
+TXN-000321,2022-07-27,CUST-0048,Operating Expense,"$3,643.02",USD,Operations,,Pending,
+TXN-000322,2022-01-01,CUST-0037,Revenue,"$109,285.94",USD,Sales,Direct Debit,Pending,
+TXN-000323,2024-07-13,CUST-0136,Tax Payment,"$7,414.79",USD,Legal,Direct Debit,Completed,APR-93069
+TXN-000324,2022-09-29,CUST-0121,Operating Expense,"$4,732.09",USD,Finance,Bank Transfer,Completed,APR-59366
+TXN-000325,2024-08-20,CUST-0273,Operating Expense,"$9,601.73",USD,Operations,Bank Transfer,Completed,APR-53063
+TXN-000326,2023-04-10,CUST-0029,Investment,"$65,217.63",EUR,Finance,Credit Card,Completed,APR-14781
+TXN-000327,2022-11-28,CUST-0071,Revenue,"$72,089.84",USD,Sales,Bank Transfer,Failed,
+TXN-000328,2023-10-28,CUST-0013,Capital Expenditure,"$5,128.89",USD,Operations,Credit Card,Completed,APR-45289
+TXN-000329,2024-06-22,CUST-0264,Investment,"$75,354.80",USD,Treasury,,Pending,
+TXN-000330,2024-09-14,CUST-0169,Operating Expense,"$5,159.13",GBP,IT,Bank Transfer,Completed,APR-84619
+TXN-000331,2023-12-21,CUST-0066,Operating Expense,"$4,428.81",GBP,IT,Bank Transfer,Completed,APR-86014
+TXN-000332,2023-04-25,CUST-0004,Capital Expenditure,"$23,999.24",USD,Real Estate,Direct Debit,Completed,APR-87381
+TXN-000333,2023-09-19,CUST-0003,Revenue,"$79,543.07",CAD,Sales,Bank Transfer,Completed,APR-61955
+TXN-000334,2024-11-30,CUST-0003,Capital Expenditure,"$11,008.03",USD,Real Estate,Bank Transfer,Completed,APR-14444
+TXN-000335,2024-08-11,CUST-0017,Revenue,"$69,942.72",GBP,Business Development,Credit Card,Completed,APR-36437
+TXN-000329,2023-08-06,CUST-0095,Operating Expense,"$3,695.75",USD,Operations,Bank Transfer,Completed,APR-88370
+TXN-000337,2024-05-20,CUST-0201,Revenue,"$161,923.49",GBP,Business Development,Credit Card,Completed,APR-21440
+TXN-000338,2023-09-20,CUST-0071,Investment,"$62,516.50",EUR,Finance,Direct Debit,Completed,APR-75354
+TXN-000339,2024-07-24,CUST-0010,Loan Repayment,"$11,058.84",GBP,Finance,Bank Transfer,Failed,
+TXN-000340,2023-04-20,CUST-0044,Operating Expense,"$17,181.07",USD,Operations,Bank Transfer,Completed,APR-38392
+TXN-000341,2023-09-09,CUST-0148,Loan Repayment,"$10,201.06",USD,Treasury,Direct Debit,Completed,APR-31442
+TXN-000342,2024-03-17,CUST-0183,Revenue,"$20,299.61",USD,Partnerships,Bank Transfer,Completed,APR-72281
+TXN-000343,2022-10-27,CUST-0007,Refund,"$1,544.80",GBP,Customer Success,Bank Transfer,Completed,APR-53283
+TXN-000344,2024-06-15,CUST-0026,Revenue,"$78,668.56",USD,Business Development,Credit Card,Completed,APR-25371
+TXN-000345,2024-04-26,CUST-0107,Revenue,"$45,033.34",GBP,Sales,Direct Debit,Completed,APR-71988
+TXN-000346,2024-12-22,CUST-0066,Capital Expenditure,"$28,932.89",JPY,Operations,Credit Card,Completed,APR-75546
+TXN-000347,2024-06-10,CUST-0006,Operating Expense,"$8,799.72",GBP,Marketing,Direct Debit,Completed,APR-24412
+TXN-000348,2024-03-21,CUST-0015,Operating Expense,"$4,662.62",GBP,Operations,Credit Card,Completed,APR-69222
+TXN-000349,2024-02-19,CUST-0003,Operating Expense,"$4,904.05",USD,Operations,Bank Transfer,Completed,APR-88683
+TXN-000350,2024-04-13,CUST-0151,Refund,"$1,015.53",GBP,Customer Success,Bank Transfer,Completed,APR-91748
+TXN-000351,2024-12-03,CUST-0019,Revenue,"$45,545.72",CAD,Sales,Bank Transfer,Completed,APR-29063
+TXN-000352,2022-08-18,CUST-0087,Operating Expense,"$4,641.69",USD,Finance,Bank Transfer,Completed,APR-17663
+TXN-000353,2024-10-14,CUST-0090,Revenue,"$111,343.44",USD,Partnerships,Bank Transfer,Completed,APR-79251
+TXN-000354,2023-06-01,CUST-0196,Operating Expense,"$7,245.84",EUR,IT,Direct Debit,Completed,APR-30230
+TXN-000351,2022-01-13,CUST-0083,Loan Repayment,"$13,260.09",GBP,Treasury,Bank Transfer,Completed,APR-61437
+TXN-000356,2023-02-16,CUST-0150,Tax Payment,"$8,387.06",USD,Legal,Crypto,Completed,APR-40033
+TXN-000357,2023-12-25,CUST-0005,Revenue,"$51,131.83",GBP,Sales,Internal Transfer,Completed,APR-39607
+TXN-000358,2024-01-19,CUST-0153,Operating Expense,"$5,704.09",USD,Marketing,Credit Card,Completed,APR-43293
+TXN-000359,2024-01-14,CUST-0100,Revenue,"$46,216.33",USD,Business Development,Internal Transfer,Completed,APR-27878
+TXN-000360,2024-02-21,CUST-0006,Revenue,"$89,968.18",CAD,Partnerships,Credit Card,Completed,APR-93894
+TXN-000361,2022-03-21,CUST-0218,Revenue,"$25,067.04",USD,Sales,Direct Debit,Completed,APR-28720
+TXN-000362,2024-12-31,CUST-0001,Revenue,"$35,983.10",USD,Partnerships,Credit Card,Completed,APR-12786
+TXN-000363,2023-09-21,CUST-0001,Revenue,"$10,888.22",USD,Sales,Direct Debit,Pending,
+TXN-000364,2022-11-04,CUST-0052,Investment,"$19,165.89",USD,Business Development,Cheque,Completed,APR-55519
+TXN-000365,2023-02-01,CUST-0014,Capital Expenditure,"$51,997.52",JPY,Real Estate,Bank Transfer,Completed,APR-71497
+TXN-000366,2024-06-09,CUST-0107,Revenue,"$26,326.47",JPY,Sales,Internal Transfer,Completed,APR-36044
+TXN-000367,2023-06-14,CUST-0017,Investment,"$22,267.60",EUR,Treasury,Bank Transfer,Completed,APR-60113
+TXN-000368,2024-01-28,CUST-0009,Capital Expenditure,"$48,047.99",EUR,Real Estate,Internal Transfer,Completed,APR-68013
+TXN-000369,2024-11-29,CUST-0247,Loan Repayment,"$5,049.21",USD,Treasury,Cheque,Completed,APR-84240
+TXN-000370,2023-10-29,CUST-0202,Revenue,"$18,172.78",JPY,Business Development,Bank Transfer,Under Review,
+TXN-000371,2024-01-26,CUST-0032,Operating Expense,"$7,535.82",GBP,Finance,Credit Card,Completed,APR-50700
+TXN-000372,2023-05-19,CUST-0017,Revenue,"$103,411.17",USD,Partnerships,,Pending,APR-75488
+TXN-000373,2024-06-15,CUST-0065,Revenue,"$65,816.49",EUR,Sales,Bank Transfer,Under Review,
+TXN-000374,2024-06-09,CUST-0016,Capital Expenditure,"$4,438.11",USD,IT,Bank Transfer,Completed,APR-16907
+TXN-000375,2023-08-18,CUST-0002,Loan Repayment,"$11,469.91",GBP,Treasury,Credit Card,Completed,APR-98321
+TXN-000376,2023-08-01,CUST-0154,Investment,"$25,658.24",USD,Finance,Cheque,Completed,APR-58496
+TXN-000377,2024-05-03,CUST-0074,Capital Expenditure,"$21,893.34",USD,IT,Bank Transfer,Completed,APR-39723
+TXN-000378,2024-05-02,CUST-0133,Operating Expense,"$4,535.12",USD,HR,Bank Transfer,Completed,APR-94637
+TXN-000379,2024-09-14,CUST-0001,Capital Expenditure,"$14,656.10",USD,Real Estate,Credit Card,Completed,APR-26770
+TXN-000380,2024-12-11,CUST-0001,Loan Repayment,"$13,342.39",USD,Treasury,Bank Transfer,Completed,APR-51754
+TXN-000381,2023-05-04,CUST-0001,Revenue,"$28,176.94",GBP,Sales,Cheque,Completed,APR-11443
+TXN-000382,2023-06-22,CUST-0055,Investment,"$22,127.28",EUR,Business Development,Bank Transfer,Completed,APR-10004
+TXN-000383,2023-07-16,CUST-0064,Operating Expense,"$6,177.93",EUR,Operations,Bank Transfer,Completed,APR-27398
+TXN-000384,2024-02-06,CUST-0210,Operating Expense,"$6,126.13",USD,Marketing,Credit Card,Completed,APR-66591
+TXN-000385,2023-04-23,CUST-0012,Capital Expenditure,"$16,835.64",EUR,IT,Bank Transfer,Completed,APR-77216
+TXN-000386,2024-02-26,CUST-0169,Loan Repayment,"$19,922.17",EUR,Finance,,Failed,APR-78341
+TXN-000387,2023-12-30,CUST-0272,Operating Expense,"$23,342.01",USD,HR,Direct Debit,Completed,APR-67016
+TXN-000388,2022-12-23,CUST-0002,Revenue,"$11,335.22",EUR,Sales,Cheque,Completed,APR-59699
+TXN-000389,2024-07-23,CUST-0065,Capital Expenditure,"$15,062.21",EUR,IT,Credit Card,Pending,
+TXN-000390,2024-07-15,CUST-0112,Operating Expense,"$5,868.95",USD,IT,Direct Debit,Under Review,
+TXN-000391,2022-07-19,CUST-0137,Revenue,"$85,138.20",USD,Sales,,Pending,
+TXN-000392,2024-02-21,CUST-0021,Tax Payment,"$10,540.25",CAD,Legal,,Pending,
+TXN-000393,2024-04-02,CUST-0002,Tax Payment,"$5,685.75",EUR,Finance,Bank Transfer,Completed,APR-18813
+TXN-000394,2022-08-01,CUST-0158,Revenue,"$83,606.82",GBP,Partnerships,Internal Transfer,Under Review,APR-31510
+TXN-000395,2023-01-26,CUST-0121,Revenue,"$49,468.00",CAD,Business Development,Internal Transfer,Under Review,
+TXN-000396,2024-06-17,CUST-0154,Loan Repayment,"$8,747.69",USD,Finance,Bank Transfer,Completed,APR-28512
+TXN-000397,2023-02-11,CUST-0013,Capital Expenditure,"$28,528.21",USD,IT,Cheque,Completed,APR-24177
+TXN-000398,2022-12-19,CUST-0023,Investment,"$13,189.99",USD,Business Development,Bank Transfer,Completed,APR-15035
+TXN-000399,2022-07-31,CUST-0008,Operating Expense,"$4,712.64",USD,Operations,Bank Transfer,Completed,APR-81508
+TXN-000400,2023-12-27,CUST-0072,Tax Payment,"$11,228.05",USD,Legal,Direct Debit,Pending,
+TXN-000401,2024-12-27,CUST-0002,Revenue,"$64,112.61",USD,Business Development,Direct Debit,Completed,APR-14803
+TXN-000402,2023-11-14,CUST-0120,Capital Expenditure,"$34,788.06",JPY,IT,Bank Transfer,Failed,
+TXN-000403,2024-08-06,CUST-0012,Revenue,"$51,460.99",USD,Sales,Direct Debit,Completed,APR-47893
+TXN-000404,2024-09-02,CUST-0286,Operating Expense,"$6,810.60",GBP,Finance,Cheque,Completed,APR-43770
+TXN-000405,2023-12-18,CUST-0023,Investment,"$48,844.09",GBP,Finance,Internal Transfer,Completed,APR-29426
+TXN-000406,2022-11-08,CUST-0182,Revenue,"$34,473.75",USD,Business Development,Credit Card,Completed,APR-20210
+TXN-000407,2022-10-15,CUST-0001,Revenue,"$60,503.00",USD,Business Development,Bank Transfer,Completed,APR-42083
+TXN-000408,2024-06-18,CUST-0272,Revenue,"$35,945.39",GBP,Sales,Internal Transfer,Completed,APR-96047
+TXN-000409,2024-07-28,CUST-0002,Loan Repayment,"$8,533.76",EUR,Treasury,Credit Card,Completed,APR-17066
+TXN-000410,2023-09-15,CUST-0232,Operating Expense,"$7,450.63",USD,Finance,Direct Debit,Completed,APR-47543
+TXN-000411,2024-01-10,CUST-0054,Tax Payment,"$18,872.41",USD,Finance,Direct Debit,Completed,APR-22730
+TXN-000412,2023-10-25,CUST-0182,Revenue,"$17,992.55",CAD,Business Development,Internal Transfer,Completed,APR-79725
+TXN-000413,2023-09-14,CUST-0254,Revenue,"$58,001.48",EUR,Partnerships,Bank Transfer,Pending,APR-67281
+TXN-000414,2024-08-30,CUST-0161,Revenue,"$110,153.38",USD,Sales,Bank Transfer,Pending,
+TXN-000415,2023-08-21,CUST-0061,Operating Expense,"$7,435.09",EUR,HR,Internal Transfer,Completed,APR-49481
+TXN-000416,2024-05-04,CUST-0052,Tax Payment,"$32,111.00",GBP,Legal,Bank Transfer,Completed,APR-76152
+TXN-000417,2022-05-16,CUST-0206,Refund,"$1,315.80",USD,Sales,Bank Transfer,Completed,APR-22881
+TXN-000418,2022-09-11,CUST-0283,Tax Payment,"$12,232.48",USD,Finance,Internal Transfer,Failed,
+TXN-000419,2023-02-11,CUST-0079,Revenue,"$30,200.26",EUR,Business Development,Credit Card,Completed,APR-70606
+TXN-000420,2024-03-03,CUST-0003,Investment,"$37,767.00",USD,Business Development,Direct Debit,Completed,APR-39216
+TXN-000421,2023-09-04,CUST-0126,Operating Expense,"$2,199.20",USD,HR,Credit Card,Completed,APR-30317
+TXN-000422,2024-06-12,CUST-0048,Operating Expense,"$10,121.16",EUR,HR,Bank Transfer,Completed,APR-27821
+TXN-000423,2023-02-20,CUST-0004,Capital Expenditure,"$28,737.24",EUR,IT,Bank Transfer,Completed,APR-57356
+TXN-000424,2024-12-10,CUST-0230,Capital Expenditure,"$29,151.26",USD,Operations,Credit Card,Completed,APR-23414
+TXN-000425,2024-03-01,CUST-0028,Capital Expenditure,"$23,854.26",GBP,Real Estate,Bank Transfer,Completed,APR-52704
+TXN-000426,2024-10-19,CUST-0120,Operating Expense,"$8,637.75",USD,HR,Bank Transfer,Completed,APR-76761
+TXN-000427,2022-09-15,CUST-0004,Revenue,"$67,263.14",CAD,Sales,Internal Transfer,Completed,APR-43941
+TXN-000428,2023-03-03,CUST-0273,Operating Expense,"$7,149.94",EUR,IT,Bank Transfer,Completed,APR-66346
+TXN-000429,2023-11-10,CUST-0154,Investment,"$30,984.53",USD,Finance,Bank Transfer,Failed,APR-87218
+TXN-000430,2024-02-17,CUST-0014,Revenue,"$13,457.44",JPY,Partnerships,Credit Card,Completed,APR-74312
+TXN-000431,2024-04-23,CUST-0074,Capital Expenditure,"$5,324.89",CAD,Real Estate,Bank Transfer,Completed,APR-34506
+TXN-000432,2022-02-10,CUST-0050,Capital Expenditure,"$71,134.62",USD,Real Estate,Bank Transfer,Completed,APR-55057
+TXN-000433,2024-08-27,CUST-0109,Revenue,"$32,075.15",USD,Partnerships,,Pending,
+TXN-000434,2024-07-05,CUST-0299,Revenue,"$32,665.96",EUR,Partnerships,Direct Debit,Under Review,
+TXN-000435,2024-12-20,CUST-0247,Refund,"$1,031.58",USD,Sales,Bank Transfer,Completed,APR-45310
+TXN-000436,2023-03-15,CUST-0049,Revenue,"$82,719.31",USD,Sales,Credit Card,Failed,
+TXN-000437,2024-05-07,CUST-0158,Revenue,"$47,493.74",USD,Sales,Internal Transfer,Completed,APR-73582
+TXN-000438,2024-05-12,CUST-0132,Revenue,"$38,288.30",USD,Partnerships,Bank Transfer,Completed,APR-92493
+TXN-000439,2023-12-04,CUST-0191,Revenue,"$32,317.12",GBP,Sales,,Pending,
+TXN-000440,2022-09-16,CUST-0017,Operating Expense,"$4,000.83",USD,Marketing,Credit Card,Completed,APR-11879
+TXN-000441,2023-03-20,CUST-0008,Investment,"$23,113.19",USD,Treasury,Bank Transfer,Completed,APR-31174
+TXN-000442,2024-12-30,CUST-0122,Revenue,"$73,710.89",USD,Partnerships,Bank Transfer,Completed,APR-89438
+TXN-000443,2024-11-24,CUST-0043,Investment,"$45,581.07",USD,Business Development,Internal Transfer,Failed,APR-39982
+TXN-000444,2024-06-30,CUST-0070,Operating Expense,"$2,302.59",USD,Operations,Bank Transfer,Completed,APR-55138
+TXN-000445,2024-05-11,CUST-0001,Revenue,"$69,065.36",GBP,Sales,Cheque,Completed,APR-77049
+TXN-000446,2024-10-15,CUST-0001,Revenue,"$62,225.59",USD,Business Development,Bank Transfer,Completed,APR-68668
+TXN-000447,2023-03-25,CUST-0001,Operating Expense,"$5,380.47",USD,IT,Direct Debit,Completed,APR-78875
+TXN-000448,2022-10-15,CUST-0235,Revenue,"$51,454.49",USD,Partnerships,Credit Card,Completed,APR-38438
+TXN-000449,2022-09-25,CUST-0070,Revenue,"$32,219.95",JPY,Business Development,Credit Card,Completed,APR-87302
+TXN-000450,2023-11-20,CUST-0109,Revenue,"$93,252.26",GBP,Business Development,Direct Debit,Completed,APR-93531
+TXN-000451,2024-12-01,CUST-0141,Refund,$359.10,USD,Sales,Bank Transfer,Completed,APR-60287
+TXN-000452,2023-11-18,CUST-0250,Revenue,"$58,706.34",USD,Sales,Direct Debit,Completed,APR-68413
+TXN-000453,2024-08-06,CUST-0122,Operating Expense,"$3,902.65",USD,Operations,Direct Debit,Completed,APR-33051
+TXN-000454,2024-08-20,CUST-0086,Operating Expense,"$26,525.55",GBP,Operations,,Pending,
+TXN-000455,2023-05-20,CUST-0137,Operating Expense,"$4,670.74",GBP,Marketing,Credit Card,Failed,
+TXN-000456,2023-08-22,CUST-0124,Refund,$834.89,GBP,Sales,Bank Transfer,Completed,APR-50450
+TXN-000457,2022-09-02,CUST-0115,Capital Expenditure,"$8,713.73",USD,Operations,Credit Card,Completed,APR-68860
+TXN-000458,2024-05-19,CUST-0058,Operating Expense,"$9,343.83",EUR,HR,Bank Transfer,Completed,APR-26080
+TXN-000459,2024-12-17,CUST-0006,Operating Expense,"$7,738.36",USD,Operations,Bank Transfer,Failed,APR-87188
+TXN-000460,2023-04-28,CUST-0157,Revenue,"$127,351.84",USD,Partnerships,Bank Transfer,Completed,APR-16235
+TXN-000461,2024-06-29,CUST-0036,Refund,"$1,101.40",EUR,Customer Success,Internal Transfer,Completed,APR-54468
+TXN-000462,2024-01-28,CUST-0061,Operating Expense,"$7,290.71",USD,HR,Bank Transfer,Failed,
+TXN-000463,2022-10-24,CUST-0147,Capital Expenditure,"$8,160.90",USD,Operations,Bank Transfer,Completed,APR-41471
+TXN-000464,2024-09-11,CUST-0130,Revenue,"$67,749.83",GBP,Partnerships,Bank Transfer,Pending,
+TXN-000465,2023-01-30,CUST-0086,Operating Expense,"$6,547.86",GBP,IT,Bank Transfer,Completed,APR-21877
+TXN-000466,2023-04-18,CUST-0043,Refund,$685.08,GBP,Sales,Cheque,Completed,APR-26901
+TXN-000467,2023-09-28,CUST-0249,Operating Expense,"$4,924.49",USD,Finance,Internal Transfer,Failed,
+TXN-000468,2024-01-03,CUST-0084,Investment,"$83,741.44",GBP,Business Development,Bank Transfer,Completed,APR-19248
+TXN-000469,2024-09-10,CUST-0151,Revenue,"$33,315.81",USD,Business Development,Bank Transfer,Completed,APR-52812
+TXN-000470,2023-10-13,CUST-0217,Revenue,"$38,045.03",USD,Sales,Cheque,Completed,APR-84896
+TXN-000471,2023-11-10,CUST-0013,Tax Payment,"$18,264.16",USD,Legal,Cheque,Completed,APR-54471
+TXN-000472,2022-08-22,CUST-0071,Revenue,"$69,242.87",GBP,Sales,Direct Debit,Completed,APR-85673
+TXN-000473,2024-10-30,CUST-0165,Refund,"$13,628,013.47",USD,Sales,Bank Transfer,Completed,APR-35580
+TXN-000474,2023-05-21,CUST-0042,Investment,"$51,525.88",USD,Treasury,Credit Card,Completed,APR-33806
+TXN-000475,2023-09-15,CUST-0288,Operating Expense,"$8,747.63",EUR,Marketing,Bank Transfer,Completed,APR-39814
+TXN-000476,2024-07-17,CUST-0137,Tax Payment,"$23,889.90",USD,Finance,Internal Transfer,Completed,APR-66348
+TXN-000477,2023-05-19,CUST-0084,Revenue,"$33,432.68",JPY,Partnerships,Cheque,Completed,APR-32551
+TXN-000478,2023-01-07,CUST-0025,Revenue,"$33,468.87",USD,Business Development,Bank Transfer,Completed,APR-37487
+TXN-000479,2024-01-17,CUST-0022,Revenue,"$94,232.06",JPY,Partnerships,Bank Transfer,Completed,APR-16321
+TXN-000480,2024-01-17,CUST-0114,Loan Repayment,"$22,050.17",USD,Treasury,Bank Transfer,Completed,APR-86582
+TXN-000481,2022-08-13,CUST-0104,Operating Expense,"$21,936.09",USD,HR,Bank Transfer,Completed,APR-16055
+TXN-000482,2024-09-27,CUST-0127,Capital Expenditure,"$66,641.51",USD,Operations,Credit Card,Completed,APR-10417
+TXN-000483,2022-07-12,CUST-0001,Investment,"$43,229.93",USD,Finance,Cheque,Completed,APR-52518
+TXN-000484,2024-11-15,CUST-0018,Investment,"$47,525.92",GBP,Finance,Direct Debit,Pending,APR-66494
+TXN-000485,2024-11-22,CUST-0247,Revenue,"$62,410.12",USD,Business Development,Credit Card,Completed,APR-68654
+TXN-000486,2024-11-01,CUST-0247,Tax Payment,"$31,171.87",USD,Finance,Cheque,Completed,APR-43916
+TXN-000487,2024-09-21,CUST-0101,Revenue,"$20,993.83",USD,Sales,Direct Debit,Completed,APR-58636
+TXN-000488,2024-06-29,CUST-0145,Loan Repayment,"$32,166.80",USD,Finance,Credit Card,Completed,APR-35247
+TXN-000489,2024-08-08,CUST-0003,Investment,"$24,834.03",USD,Treasury,Direct Debit,Completed,APR-80307
+TXN-000483,2023-05-27,CUST-0153,Loan Repayment,"$4,496.70",USD,Finance,Bank Transfer,Completed,APR-39312
+TXN-000491,2022-08-08,CUST-0080,Investment,"$55,288.35",USD,Treasury,Bank Transfer,Completed,APR-65085
+TXN-000492,2023-08-08,CUST-0104,Investment,"$40,511.62",USD,Treasury,Bank Transfer,Completed,APR-42493
+TXN-000493,2022-09-27,CUST-0126,Operating Expense,"$3,856.89",GBP,Marketing,Internal Transfer,Completed,APR-86055
+TXN-000494,2024-08-19,CUST-0215,Operating Expense,"$3,203.34",USD,HR,Direct Debit,Completed,APR-45900
+TXN-000495,2022-04-25,CUST-0009,Operating Expense,"$3,758.82",USD,Finance,Credit Card,Completed,APR-97467
+TXN-000496,2024-12-30,CUST-0029,Refund,$923.84,USD,Maketing,Bank Transfer,Completed,APR-40643
+TXN-000497,2023-10-05,CUST-0045,Capital Expenditure,"$28,427.43",GBP,IT,Bank Transfer,Failed,
+TXN-000498,2024-12-25,CUST-0024,Tax Payment,"$14,515.25",USD,Finance,Bank Transfer,Failed,
+TXN-000499,2024-04-26,CUST-0246,Loan Repayment,"$63,955.24",USD,Finance,Credit Card,Completed,APR-17066
+TXN-000500,2024-11-29,CUST-0250,Capital Expenditure,"$50,290.37",USD,IT,Credit Card,Completed,APR-10231
+TXN-000501,2024-01-31,CUST-0236,Tax Payment,"$10,676.85",GBP,Finance,Bank Transfer,Completed,APR-20752
+TXN-000502,2024-04-26,CUST-0073,Revenue,"$41,853.73",USD,Sales,Bank Transfer,Completed,APR-19861
+TXN-000503,2024-10-13,CUST-0006,Loan Repayment,"$6,865.88",USD,Treasury,Direct Debit,Completed,APR-89816
+TXN-000504,2023-03-25,CUST-0010,Operating Expense,"$7,095.23",USD,Finance,Direct Debit,Completed,APR-98922
+TXN-000505,2022-11-08,CUST-0123,Operating Expense,"$3,453.40",USD,IT,Bank Transfer,Completed,APR-89413
+TXN-000506,2024-11-14,CUST-0013,Tax Payment,"$39,739.98",USD,Finance,Bank Transfer,Completed,APR-16303
+TXN-000507,2023-11-30,CUST-0008,Revenue,"$19,509.67",USD,Partnerships,Direct Debit,Completed,APR-96872
+TXN-000508,2022-04-08,CUST-0099,Revenue,"$56,352.94",USD,Sales,Bank Transfer,Completed,APR-62199
+TXN-000509,2023-04-20,CUST-0271,Capital Expenditure,"$21,895.65",USD,Operations,Credit Card,Completed,APR-33889
+TXN-000510,2023-04-25,CUST-0098,Revenue,"$38,219.58",GBP,Sales,Bank Transfer,Completed,APR-39320
+TXN-000511,2022-09-12,CUST-0001,Investment,"$21,361.43",GBP,Business Development,Credit Card,Completed,APR-80839
+TXN-000512,2024-11-22,CUST-0091,Loan Repayment,"$1,805.76",GBP,Treasury,Internal Transfer,Completed,APR-84048
+TXN-000513,2022-12-29,CUST-0124,Refund,"$1,391.82",USD,Sales,Bank Transfer,Completed,APR-21488
+TXN-000509,2023-12-31,CUST-0004,Operating Expense,"$3,367.36",GBP,IT,Bank Transfer,Completed,APR-88032
+TXN-000515,2022-05-02,CUST-0151,Revenue,"$65,263.84",CAD,Business Development,Credit Card,Under Review,
+TXN-000516,2024-04-30,CUST-0009,Refund,"$1,755.11",USD,Customer Success,Bank Transfer,Completed,APR-42743
+TXN-000517,2024-11-18,CUST-0217,Operating Expense,"$3,100.73",USD,Finance,Direct Debit,Completed,APR-55770
+TXN-000518,2023-12-31,CUST-0296,Capital Expenditure,"$22,996.53",JPY,Operations,Direct Debit,Completed,APR-67878
+TXN-000519,2024-04-04,CUST-0001,Loan Repayment,"$9,527.74",GBP,Treasury,Crypto,Failed,
+TXN-000520,2024-09-11,CUST-0068,Revenue,"$109,103.37",USD,Business Development,Bank Transfer,Completed,APR-63442
+TXN-000521,2024-06-11,CUST-0066,Revenue,"$27,734.21",USD,Partnerships,Bank Transfer,Completed,APR-26411
+TXN-000522,2022-12-31,CUST-0063,Capital Expenditure,"$3,447.46",EUR,Operations,Bank Transfer,Completed,APR-43536
+TXN-000523,2022-04-06,CUST-0008,Investment,"$32,220.53",USD,Finance,Direct Debit,Completed,APR-62745
+TXN-000524,2024-12-17,CUST-0043,Revenue,"$105,483.68",USD,Business Development,Bank Transfer,Completed,APR-36623
+TXN-000525,2024-01-26,CUST-0266,Capital Expenditure,"$36,504.23",GBP,Real Estate,Bank Transfer,Pending,
+TXN-000526,2024-07-23,CUST-0219,Investment,"$32,738.06",CAD,Finance,,Failed,
+TXN-000527,2023-09-17,CUST-0022,Revenue,"$137,298.08",USD,Sales,Credit Card,Completed,APR-44191
+TXN-000528,2023-08-07,CUST-0011,Investment,"$42,568.33",USD,Finance,Cheque,Pending,
+TXN-000529,2022-12-11,CUST-0300,Operating Expense,"$4,502.26",USD,HR,Bank Transfer,Completed,APR-88897
+TXN-000530,2024-09-20,CUST-0073,Revenue,"$24,261.30",GBP,Business Development,Bank Transfer,Completed,APR-89799
+TXN-000531,2024-08-31,CUST-0202,Operating Expense,"$2,804.95",GBP,IT,Crypto,Completed,APR-78167
+TXN-000532,2022-08-11,CUST-0120,Operating Expense,"$5,798.93",USD,Finance,Bank Transfer,Completed,APR-38835
+TXN-000533,2023-11-06,CUST-0240,Operating Expense,"$9,643.24",USD,Operations,Bank Transfer,Pending,
+TXN-000534,2024-03-21,CUST-0066,Operating Expense,"$4,705.68",USD,IT,Bank Transfer,Completed,APR-93939
+TXN-000535,2024-11-08,CUST-0085,Operating Expense,"$3,003.63",USD,IT,Direct Debit,Completed,APR-82243
+TXN-000536,2023-06-07,CUST-0229,Loan Repayment,"$1,968.46",USD,Finance,Credit Card,Completed,APR-28233
+TXN-000537,2024-01-02,CUST-0005,Refund,$962.07,USD,Sales,Cheque,Completed,APR-58895
+TXN-000538,2023-09-01,CUST-0020,Operating Expense,"$3,843.19",EUR,Marketing,Bank Transfer,Completed,APR-38274
+TXN-000539,2023-01-08,CUST-0180,Capital Expenditure,"$47,248.18",GBP,Real Estate,Internal Transfer,Failed,
+TXN-000540,2023-10-12,CUST-0006,Operating Expense,"$3,988.22",USD,Marketing,Bank Transfer,Completed,APR-83297
+TXN-000541,2022-05-31,CUST-0121,Operating Expense,"$5,950.00",GBP,Finance,Cheque,Under Review,
+TXN-000542,2024-10-10,CUST-0100,Investment,"$47,555.63",USD,Finance,,Failed,
+TXN-000543,2024-08-25,CUST-0273,Capital Expenditure,"$17,737.69",USD,Real Estate,Bank Transfer,Completed,APR-44650
+TXN-000544,2023-08-11,CUST-0021,Operating Expense,"$2,673.30",USD,IT,,Pending,
+TXN-000545,2023-09-19,CUST-0179,Investment,"$106,432.94",JPY,Finance,Credit Card,Completed,APR-48585
+TXN-000546,2023-12-09,CUST-0252,Revenue,"$35,865.21",USD,Business Development,,Pending,
+TXN-000547,2024-07-30,CUST-0072,Revenue,"$71,521.04",EUR,Sales,Credit Card,Completed,APR-49961
+TXN-000548,2024-12-22,CUST-0018,Operating Expense,"$14,171.57",CAD,Operations,,Pending,
+TXN-000549,2022-11-13,CUST-0168,Refund,"$1,695.38",EUR,Customer Success,Direct Debit,Completed,APR-44099
+TXN-000550,2024-10-04,CUST-0017,Loan Repayment,"$15,129.27",USD,Treasury,Internal Transfer,Under Review,APR-22665
+TXN-000551,2023-02-21,CUST-0139,Operating Expense,"$5,830.57",USD,Marketing,,Pending,
+TXN-000552,2024-10-10,CUST-0021,Operating Expense,"$11,188.72",GBP,Marketing,Bank Transfer,Completed,APR-48766
+TXN-000553,2022-11-28,CUST-0120,Tax Payment,"$7,493.27",USD,Legal,Bank Transfer,Completed,APR-66118
+TXN-000554,2024-01-20,CUST-0001,Operating Expense,"$4,329.23",GBP,Finance,Bank Transfer,Completed,APR-98229
+TXN-000555,2024-06-04,CUST-0051,Revenue,"$67,644.97",JPY,Sales,Direct Debit,Completed,APR-86641
+TXN-000556,2024-06-06,CUST-0072,Investment,"$29,247.67",USD,Business Development,Direct Debit,Completed,APR-35369
+TXN-000557,2024-01-14,CUST-0059,Capital Expenditure,"$51,907.40",GBP,Real Estate,Credit Card,Completed,APR-68812
+TXN-000558,2024-12-28,CUST-0170,Loan Repayment,"$4,831.76",USD,Finance,Bank Transfer,Completed,APR-26047
+TXN-000559,2024-03-31,CUST-0028,Revenue,"$133,057.01",USD,Business Development,Credit Card,Completed,APR-62549
+TXN-000560,2024-08-19,CUST-0003,Investment,"$68,469.68",EUR,Treasury,Credit Card,Completed,APR-33084
+TXN-000561,2023-01-30,CUST-0001,Tax Payment,"$6,959.66",GBP,Finance,Credit Card,Completed,APR-61220
+TXN-000562,2022-07-30,CUST-0213,Revenue,"$75,916.24",USD,Sales,Bank Transfer,Completed,APR-22647
+TXN-000563,2024-05-19,CUST-0283,Revenue,"$32,489.12",USD,Partnerships,Direct Debit,Completed,APR-70510
+TXN-000564,2024-01-16,CUST-0038,Capital Expenditure,"$18,355.67",USD,Operations,Crypto,Completed,APR-87865
+TXN-000565,2022-12-21,CUST-0082,Tax Payment,"$17,088.79",USD,Legal,Credit Card,Completed,APR-70384
+TXN-000566,2022-11-17,CUST-0250,Operating Expense,"$2,228.68",USD,Marketing,Internal Transfer,Completed,APR-40348
+TXN-000567,2024-11-15,CUST-0002,Revenue,"$53,643.19",CAD,Business Development,Direct Debit,Completed,APR-17017
+TXN-000568,2022-03-12,CUST-0036,Revenue,"$43,314.24",USD,Partnerships,Internal Transfer,Completed,APR-13589
+TXN-000569,2023-07-18,CUST-0026,Revenue,"$101,442.16",EUR,Sales,Internal Transfer,Completed,APR-83691
+TXN-000570,2022-01-19,CUST-0205,Loan Repayment,"$22,120.70",USD,Finance,Bank Transfer,Completed,APR-74705
+TXN-000571,2023-04-20,CUST-0021,Tax Payment,"$6,708.64",EUR,Finance,Bank Transfer,Completed,APR-86505
+TXN-000572,2024-09-04,CUST-0003,Refund,"$1,653.34",CAD,Finance,Bank Transfer,Completed,APR-81227
+TXN-000573,2023-03-31,CUST-0080,Tax Payment,"$8,659.79",CAD,Finance,Bank Transfer,Completed,APR-99732
+TXN-000574,2023-05-04,CUST-0052,Operating Expense,"$4,826.15",USD,HR,Credit Card,Completed,APR-89547
+TXN-000575,2023-07-31,CUST-0024,Operating Expense,"$3,016.91",USD,Marketing,Cheque,Completed,APR-38512
+TXN-000576,2024-06-02,CUST-0002,Operating Expense,"$19,177.61",USD,HR,Credit Card,Completed,APR-14519
+TXN-000577,2023-01-26,CUST-0025,Capital Expenditure,"$17,089.28",CAD,Operations,Bank Transfer,Pending,
+TXN-000578,2023-10-21,CUST-0005,Revenue,"$18,400.97",GBP,Partnerships,Internal Transfer,Completed,APR-51421
+TXN-000579,2022-03-12,CUST-0012,Operating Expense,"$3,668.27",USD,Finance,Direct Debit,Completed,APR-74489
+TXN-000580,2023-09-06,CUST-0077,Capital Expenditure,"$15,628.96",USD,Real Estate,Direct Debit,Under Review,
+TXN-000581,2022-05-16,CUST-0007,Revenue,"$9,818,359.11",USD,Sales,Bank Transfer,Completed,APR-87741
+TXN-000582,2023-06-03,CUST-0028,Operating Expense,"$12,144.22",USD,Operations,Bank Transfer,Pending,
+TXN-000583,2022-08-03,CUST-0134,Tax Payment,"$18,816.73",EUR,Finance,Cheque,Completed,APR-99885
+TXN-000584,2024-12-14,CUST-0113,Investment,"$27,747.14",USD,Treasury,Internal Transfer,Completed,APR-43960
+TXN-000585,2022-02-09,CUST-0009,Revenue,"$58,410.37",USD,Sales,Credit Card,Completed,APR-53494
+TXN-000586,2024-03-04,CUST-0208,Investment,"$20,886.44",EUR,Finance,Bank Transfer,Pending,
+TXN-000587,2022-06-24,CUST-0102,Capital Expenditure,"$24,608.81",GBP,Real Estate,Credit Card,Completed,APR-61568
+TXN-000588,2023-08-01,CUST-0060,Operating Expense,"$5,997.63",USD,Operations,Cheque,Failed,
+TXN-000589,2024-08-04,CUST-0001,Refund,$345.98,USD,Sales,Direct Debit,Completed,APR-25822
+TXN-000590,2023-04-01,CUST-0125,Revenue,"$75,211.79",JPY,Business Development,Bank Transfer,Completed,APR-70376
+TXN-000591,2024-09-14,CUST-0122,Capital Expenditure,"$12,710.61",USD,Operations,Credit Card,Completed,APR-32597
+TXN-000592,2023-10-28,CUST-0120,Revenue,"$66,243.66",USD,Sales,Cheque,Completed,APR-36726
+TXN-000593,2022-10-16,CUST-0064,Revenue,"$48,825.70",USD,Sales,Cheque,Completed,APR-82652
+TXN-000594,2023-02-16,CUST-0002,Capital Expenditure,"$20,196.79",EUR,Real Estate,Bank Transfer,Completed,APR-35193
+TXN-000595,2023-10-15,CUST-0012,Revenue,"$73,341.31",USD,Business Development,Bank Transfer,Completed,APR-96144
+TXN-000596,2024-10-02,CUST-0062,Investment,"$100,928.03",USD,Finance,Bank Transfer,Completed,APR-92405
+TXN-000597,2022-09-28,CUST-0144,Revenue,"$62,277.12",USD,Partnerships,Bank Transfer,Completed,APR-10751
+TXN-000598,2022-12-26,CUST-0072,Revenue,"$47,454.90",GBP,Business Development,Credit Card,Completed,APR-29087
+TXN-000599,2023-12-13,CUST-0038,Investment,"$11,466.33",USD,Finance,Bank Transfer,Completed,APR-82657
+TXN-000600,2024-08-14,CUST-0252,Revenue,"$47,343.60",USD,Business Development,Bank Transfer,Completed,APR-79808
+TXN-000601,2024-07-30,CUST-0117,Revenue,"$33,026.23",EUR,Sales,Direct Debit,Completed,APR-76558
+TXN-000602,2024-04-28,CUST-0087,Revenue,"$125,495.80",CAD,Business Development,Internal Transfer,Completed,APR-38271
+TXN-000603,2022-11-14,CUST-0062,Revenue,"$61,843.11",USD,Business Development,Direct Debit,Completed,APR-55199
+TXN-000604,2024-04-03,CUST-0002,Operating Expense,"$13,884.77",GBP,Operations,Bank Transfer,Completed,APR-29685
+TXN-000605,2024-08-11,CUST-0050,Loan Repayment,"$7,824.40",USD,Finance,Cheque,Completed,APR-48795
+TXN-000606,2024-02-20,CUST-0028,Operating Expense,"$3,329.10",USD,IT,Direct Debit,Completed,APR-34317
+TXN-000607,2024-03-06,CUST-0120,Revenue,"$122,049.38",USD,Partnerships,Crypto,Completed,APR-13379
+TXN-000608,2024-10-17,CUST-0127,Refund,$551.63,USD,Customer Success,Bank Transfer,Completed,APR-58103
+TXN-000609,2022-04-15,CUST-0103,Operating Expense,"$10,417.13",GBP,IT,Bank Transfer,Completed,APR-54414
+TXN-000610,2022-08-11,CUST-0109,Investment,"$37,714.88",USD,Business Development,Bank Transfer,Completed,APR-44781
+TXN-000611,2024-09-03,CUST-0028,Revenue,"$33,202.33",EUR,Sales,Bank Transfer,Completed,APR-25056
+TXN-000612,2023-05-29,CUST-0184,Revenue,"$78,189.94",USD,Business Development,Internal Transfer,Completed,APR-18489
+TXN-000613,2024-02-14,CUST-0078,Investment,"$17,370.76",USD,Business Development,Bank Transfer,Completed,APR-35450
+TXN-000614,2023-07-16,CUST-0021,Revenue,"$43,214.89",GBP,Sales,Credit Card,Completed,APR-79590
+TXN-000615,2023-06-29,CUST-0149,Operating Expense,"$3,467.12",CAD,Operations,Direct Debit,Failed,
+TXN-000616,2024-06-15,CUST-0058,Operating Expense,"$9,072.77",EUR,Finance,Cheque,Completed,APR-48510
+TXN-000617,2023-04-05,CUST-0071,Investment,"$18,288.39",GBP,Finance,Bank Transfer,Completed,APR-63150
+TXN-000618,2023-12-14,CUST-0027,Revenue,"$111,075.10",USD,Business Development,,Failed,
+TXN-000619,2024-08-13,CUST-0002,Operating Expense,"$4,619.32",USD,Marketing,Bank Transfer,Completed,APR-91962
+TXN-000620,2024-12-19,CUST-0033,Tax Payment,"$31,927.60",CAD,Legal,Bank Transfer,Failed,
+TXN-000621,2022-04-15,CUST-0111,Revenue,"$59,889.79",USD,Sales,Direct Debit,Completed,APR-47866
+TXN-000622,2023-10-27,CUST-0022,Refund,$417.00,GBP,Customer Success,Credit Card,Completed,APR-60307
+TXN-000623,2024-01-29,CUST-0040,Capital Expenditure,"$65,764.89",USD,Real Estate,Bank Transfer,Completed,APR-45349
+TXN-000624,2022-12-14,CUST-0001,Operating Expense,"$7,384.12",USD,Marketing,Bank Transfer,Completed,APR-79750
+TXN-000625,2024-03-01,CUST-0260,Operating Expense,"$12,806.41",USD,HR,Cheque,Completed,APR-21335
+TXN-000626,2024-05-02,CUST-0004,Capital Expenditure,"$8,475.74",USD,Real Estate,Direct Debit,Completed,APR-85110
+TXN-000627,2024-09-28,CUST-0006,Operating Expense,"$1,104.60",USD,IT,Bank Transfer,Completed,APR-62866
+TXN-000628,2024-10-12,CUST-0003,Revenue,"$132,138.47",USD,Business Development,Internal Transfer,Completed,APR-94434
+TXN-000629,2024-07-17,CUST-0231,Revenue,"$46,104.79",USD,Business Development,Bank Transfer,Completed,APR-22370
+TXN-000630,2023-09-21,CUST-0008,Capital Expenditure,"$22,569.25",USD,Real Estate,,Pending,
+TXN-000631,2024-03-24,CUST-0077,Loan Repayment,"$6,478.70",USD,Treasury,,Pending,APR-83171
+TXN-000632,2024-01-24,CUST-0044,Investment,"$19,850.66",USD,Business Development,Credit Card,Completed,APR-23729
+TXN-000633,2022-03-28,CUST-0162,Loan Repayment,"$9,005.94",USD,Finance,Bank Transfer,Completed,APR-56488
+TXN-000634,2022-08-16,CUST-0295,Tax Payment,"$20,702.01",USD,Legal,Bank Transfer,Completed,APR-28182
+TXN-000635,2024-10-04,CUST-0252,Capital Expenditure,"$13,006.97",USD,Operations,Credit Card,Completed,APR-34206
+TXN-000636,2023-08-23,CUST-0136,Operating Expense,"$2,664.87",USD,HR,Bank Transfer,Completed,APR-66792
+TXN-000637,2023-10-07,CUST-0081,Operating Expense,"$4,780.65",GBP,HR,Direct Debit,Completed,APR-71073
+TXN-000638,2024-01-24,CUST-0002,Operating Expense,"$9,131.56",USD,IT,Bank Transfer,Completed,APR-55654
+TXN-000639,2023-02-19,CUST-0116,Investment,"$27,257.33",EUR,Business Development,Cheque,Completed,APR-18619
+TXN-000640,2024-05-14,CUST-0061,Tax Payment,"$9,889.41",EUR,Finance,Credit Card,Completed,APR-62318
+TXN-000641,2024-01-28,CUST-0242,Refund,"$1,615.01",GBP,Finance,Crypto,Completed,APR-34278
+TXN-000642,2022-04-29,CUST-0006,Revenue,"$54,889.70",EUR,Sales,Bank Transfer,Completed,APR-72996
+TXN-000643,2024-06-11,CUST-0004,Refund,$397.11,USD,Finance,Bank Transfer,Completed,APR-71952
+TXN-000644,2024-01-11,CUST-0246,Revenue,"$22,383.33",USD,Business Development,Credit Card,Completed,APR-60183
+TXN-000645,2024-01-01,CUST-0094,Loan Repayment,"$12,755.93",USD,Finance,Cheque,Completed,APR-52038
+TXN-000646,2024-12-27,CUST-0099,Revenue,"$81,078.17",EUR,Sales,Bank Transfer,Completed,APR-69093
+TXN-000647,2023-01-09,CUST-0043,Operating Expense,"$6,241.41",EUR,Finance,Direct Debit,Completed,APR-89885
+TXN-000648,2023-06-02,CUST-0001,Operating Expense,"$8,416.28",EUR,Marketing,Credit Card,Completed,APR-67218
+TXN-000649,2024-05-07,CUST-0028,Operating Expense,"$7,712.00",EUR,HR,Bank Transfer,Pending,
+TXN-000650,2023-03-22,CUST-0002,Investment,"$16,641.81",USD,Business Development,Bank Transfer,Completed,APR-73276
+TXN-000651,2024-12-07,CUST-0019,Operating Expense,"$7,213.90",EUR,Operations,Bank Transfer,Completed,APR-44166
+TXN-000652,2024-08-22,CUST-0229,Investment,"$58,273.31",USD,Treasury,Cheque,Under Review,APR-25792
+TXN-000653,2023-05-02,CUST-0167,Investment,"$38,300.81",JPY,Business Development,Credit Card,Completed,APR-86494
+TXN-000654,2024-12-02,CUST-0063,Capital Expenditure,"$47,635.95",USD,Real Estate,Internal Transfer,Completed,APR-96560
+TXN-000655,2024-05-14,CUST-0010,Revenue,"$20,665.65",USD,Business Development,Credit Card,Completed,APR-30279
+TXN-000656,2023-08-26,CUST-0018,Revenue,"$120,675.35",USD,Partnerships,Direct Debit,Completed,APR-74631
+TXN-000657,2024-12-06,CUST-0080,Tax Payment,"$10,016.56",USD,Finance,Bank Transfer,Completed,APR-48612
+TXN-000658,2023-03-26,CUST-0034,Investment,"$72,589.24",USD,Finance,Direct Debit,Completed,APR-32189
+TXN-000659,2024-07-13,CUST-0096,Capital Expenditure,"$31,608.45",GBP,Operations,Bank Transfer,Under Review,
+TXN-000660,2024-03-28,CUST-0096,Capital Expenditure,"$11,662.46",EUR,IT,Cheque,Completed,APR-68194
+TXN-000661,2024-07-23,CUST-0003,Tax Payment,"$23,580.47",GBP,Legal,Credit Card,Completed,APR-80479
+TXN-000662,2023-11-03,CUST-0125,Operating Expense,"$4,913.64",EUR,Marketing,Crypto,Completed,APR-60704
+TXN-000663,2023-12-18,CUST-0060,Operating Expense,"$2,959.19",EUR,Operations,Credit Card,Completed,APR-25373
+TXN-000664,2022-02-06,CUST-0131,Capital Expenditure,"$13,266.88",USD,IT,,Pending,APR-50526
+TXN-000665,2024-07-15,CUST-0007,Revenue,"$72,610.18",USD,Sales,Credit Card,Completed,APR-15389
+TXN-000666,2022-06-19,CUST-0080,Capital Expenditure,"$34,970.39",USD,IT,Bank Transfer,Completed,APR-10016
+TXN-000667,2023-07-26,CUST-0001,Capital Expenditure,"$20,697.22",USD,IT,Credit Card,Completed,APR-18827
+TXN-000668,2023-07-18,CUST-0179,Capital Expenditure,"$19,439.76",GBP,IT,Credit Card,Completed,APR-85978
+TXN-000669,2024-11-03,CUST-0084,Capital Expenditure,"$12,040.50",JPY,Operations,Credit Card,Completed,APR-10871
+TXN-000670,2022-12-31,CUST-0002,Revenue,"$41,520.46",USD,Sales,Credit Card,Completed,APR-16844
+TXN-000671,2024-11-05,CUST-0023,Revenue,"$24,250.32",GBP,Sales,Cheque,Completed,APR-65751
+TXN-000672,2022-08-25,CUST-0042,Capital Expenditure,"$27,573.00",USD,IT,Bank Transfer,Completed,APR-59395
+TXN-000673,2024-06-30,CUST-0028,Revenue,"$81,421.28",USD,Partnerships,Bank Transfer,Completed,APR-50571
+TXN-000674,2022-10-15,CUST-0021,Operating Expense,"$11,582.90",GBP,IT,Bank Transfer,Under Review,
+TXN-000675,2024-10-02,CUST-0281,Operating Expense,"$16,189.23",EUR,IT,Credit Card,Completed,APR-96267
+TXN-000676,2024-05-10,CUST-0019,Operating Expense,"$7,017.05",USD,HR,Bank Transfer,Completed,APR-60330
+TXN-000677,2024-12-03,CUST-0254,Capital Expenditure,"$10,701,013.17",USD,Real Estate,Bank Transfer,Completed,APR-26186
+TXN-000678,2022-05-26,CUST-0070,Tax Payment,"$34,926.77",USD,Finance,Bank Transfer,Completed,APR-80466
+TXN-000679,2023-03-06,CUST-0009,Operating Expense,"$5,003.94",EUR,Operations,Internal Transfer,Completed,APR-92919
+TXN-000680,2024-01-09,CUST-0003,Loan Repayment,"$11,166.79",USD,Finance,Credit Card,Completed,APR-29046
+TXN-000681,2023-01-23,CUST-0255,Investment,"$17,252.75",EUR,Treasury,Bank Transfer,Completed,APR-67630
+TXN-000682,2022-11-02,CUST-0114,Loan Repayment,"$3,320.18",USD,Finance,Direct Debit,Completed,APR-26354
+TXN-000683,2024-09-13,CUST-0001,Operating Expense,"$5,652.17",GBP,HR,Bank Transfer,Completed,APR-66245
+TXN-000684,2024-05-23,CUST-0021,Capital Expenditure,"$28,006.10",USD,Operations,Bank Transfer,Under Review,
+TXN-000685,2023-04-05,CUST-0016,Loan Repayment,"$18,169.18",GBP,Treasury,Bank Transfer,Failed,
+TXN-000686,2023-08-13,CUST-0236,Investment,"$42,714.74",USD,Treasury,Credit Card,Completed,APR-97839
+TXN-000687,2024-07-25,CUST-0172,Refund,"$1,067.74",GBP,Finance,Bank Transfer,Completed,APR-17879
+TXN-000688,2024-02-24,CUST-0001,Investment,"$132,854.71",USD,Finance,Credit Card,Completed,APR-73480
+TXN-000689,2023-09-24,CUST-0001,Capital Expenditure,"$27,057.66",EUR,Operations,Credit Card,Completed,APR-10103
+TXN-000690,2024-08-03,CUST-0016,Tax Payment,"$12,859.36",JPY,Legal,Bank Transfer,Failed,
+TXN-000691,2022-06-05,CUST-0163,Revenue,"$17,923.83",GBP,Business Development,Internal Transfer,Completed,APR-14981
+TXN-000692,2023-07-20,CUST-0005,Operating Expense,"$8,469.76",USD,Legal ,Credit Card,Pending,
+TXN-000693,2023-10-23,CUST-0002,Operating Expense,"$3,851.13",GBP,Finance,Bank Transfer,Completed,APR-16374
+TXN-000694,2024-09-04,CUST-0060,Investment,"$24,575.02",GBP,Treasury,Credit Card,Completed,APR-61692
+TXN-000695,2023-12-23,CUST-0113,Loan Repayment,"$16,070.15",USD,Finance,Bank Transfer,Completed,APR-32918
+TXN-000696,2024-11-20,CUST-0082,Revenue,"$171,563.26",USD,Business Development,,Failed,APR-85236
+TXN-000697,2022-06-21,CUST-0003,Revenue,"$30,168.35",EUR,Sales,Direct Debit,Completed,APR-18607
+TXN-000698,2024-12-31,CUST-0011,Operating Expense,"$1,984.04",GBP,Operations,Direct Debit,Completed,APR-52308
+TXN-000699,2024-12-24,CUST-0134,Revenue,"$83,547.24",USD,Partnerships,Direct Debit,Completed,APR-38659
+TXN-000700,2024-08-16,CUST-0007,Loan Repayment,"$7,332.98",USD,Treasury,Bank Transfer,Completed,APR-39639
+TXN-000701,2024-10-04,CUST-0002,Operating Expense,"$3,358.77",GBP,Finance,Direct Debit,Completed,APR-94070
+TXN-000702,2024-09-28,CUST-0057,Capital Expenditure,"$42,668.54",USD,Real Estate,,Pending,
+TXN-000703,2022-10-23,CUST-0120,Revenue,"$62,595.77",GBP,Sales,Credit Card,Completed,APR-77028
+TXN-000704,2024-11-12,CUST-0024,Revenue,"$28,037.93",USD,Sales,Internal Transfer,Completed,APR-46443
+TXN-000705,2024-05-03,CUST-0017,Capital Expenditure,"$10,553.69",GBP,Real Estate,Bank Transfer,Completed,APR-86978
+TXN-000706,2024-02-27,CUST-0068,Capital Expenditure,"$14,585.50",USD,Real Estate,,Failed,
+TXN-000707,2024-12-24,CUST-0061,Revenue,"$43,332.62",GBP,Partnerships,Bank Transfer,Completed,APR-43492
+TXN-000708,2023-03-13,CUST-0073,Investment,"$29,210.25",USD,Treasury,Internal Transfer,Completed,APR-12213
+TXN-000709,2024-12-27,CUST-0007,Capital Expenditure,"$14,101.39",GBP,Real Estate,Bank Transfer,Completed,APR-17961
+TXN-000710,2024-12-29,CUST-0086,Operating Expense,"$5,208.30",USD,Marketing,Credit Card,Completed,APR-54019
+TXN-000711,2024-11-05,CUST-0161,Revenue,"$116,275.77",GBP,Sales,Direct Debit,Completed,APR-97782
+TXN-000712,2023-03-05,CUST-0001,Tax Payment,"$18,058.04",CAD,Legal,Crypto,Completed,APR-28107
+TXN-000713,2022-01-24,CUST-0125,Tax Payment,"$17,744.08",USD,Finance,Bank Transfer,Failed,
+TXN-000706,2023-09-21,CUST-0237,Revenue,"$70,594.22",EUR,Partnerships,Credit Card,Pending,
+TXN-000715,2024-11-01,CUST-0255,Investment,"$7,651.16",USD,Business Development,Internal Transfer,Completed,APR-10959
+TXN-000716,2024-08-02,CUST-0038,Investment,"$152,293.36",USD,Business Development,,Pending,
+TXN-000717,2023-02-18,CUST-0164,Capital Expenditure,"$40,743.54",EUR,Operations,Direct Debit,Completed,APR-87000
+TXN-000718,2023-07-07,CUST-0245,Operating Expense,"$5,333.33",USD,Operations,Credit Card,Completed,APR-98787
+TXN-000719,2023-12-01,CUST-0026,Investment,"$57,797.83",USD,Finance,,Pending,
+TXN-000720,2023-08-19,CUST-0290,Operating Expense,"$4,715.25",GBP,Finance,Credit Card,Completed,APR-69829
+TXN-000721,2024-11-04,CUST-0249,Operating Expense,"$2,976.29",EUR,Finance,Bank Transfer,Completed,APR-22728
+TXN-000722,2023-09-18,CUST-0015,Revenue,"$90,085.72",USD,Business Development,Credit Card,Completed,APR-24640
+TXN-000723,2023-04-11,CUST-0083,Operating Expense,"$7,001.84",USD,HR,Bank Transfer,Completed,APR-17063
+TXN-000724,2023-10-26,CUST-0068,Tax Payment,"$44,905.36",USD,Finance,Bank Transfer,Completed,APR-61448
+TXN-000725,2024-03-07,CUST-0011,Refund,$874.54,USD,Customer Success,Credit Card,Completed,APR-45292
+TXN-000726,2023-12-30,CUST-0284,Capital Expenditure,"$16,768.75",USD,IT,Bank Transfer,Completed,APR-32056
+TXN-000727,2024-09-24,CUST-0002,Investment,"$17,243.09",GBP,Finance,Bank Transfer,Completed,APR-20054
+TXN-000728,2023-05-19,CUST-0012,Revenue,"$67,197.00",GBP,Partnerships,Bank Transfer,Completed,APR-70247
+TXN-000729,2024-12-10,CUST-0273,Operating Expense,"$9,511.00",USD,IT,Credit Card,Completed,APR-61344
+TXN-000730,2024-07-16,CUST-0001,Revenue,"$21,443.90",USD,Partnerships,Credit Card,Completed,APR-34859
+TXN-000731,2023-05-17,CUST-0008,Revenue,"$75,369.23",USD,Partnerships,Bank Transfer,Completed,APR-55822
+TXN-000732,2024-05-20,CUST-0215,Operating Expense,"$4,979.44",USD,IT,Cheque,Completed,APR-52736
+TXN-000733,2024-12-30,CUST-0275,Revenue,"$70,108.41",USD,Business Development,Bank Transfer,Completed,APR-13559
+TXN-000734,2024-11-15,CUST-0021,Revenue,"$105,108.48",GBP,Sales,Direct Debit,Completed,APR-32120
+TXN-000735,2024-05-07,CUST-0001,Operating Expense,"$3,391.91",GBP,Finance,Bank Transfer,Under Review,APR-84741
+TXN-000736,2022-11-28,CUST-0002,Revenue,"$24,595.22",GBP,Business Development,Bank Transfer,Completed,APR-60964
+TXN-000737,2023-03-18,CUST-0110,Revenue,"$67,970.46",GBP,Partnerships,Bank Transfer,Completed,APR-17479
+TXN-000738,2023-08-03,CUST-0151,Tax Payment,"$8,254.11",USD,Finance,Credit Card,Completed,APR-17496
+TXN-000739,2024-03-31,CUST-0094,Capital Expenditure,"$10,996.86",GBP,Real Estate,Cheque,Completed,APR-89488
+TXN-000740,2023-12-17,CUST-0289,Operating Expense,"$2,280.79",USD,Finance,,Pending,
+TXN-000741,2023-08-18,CUST-0013,Revenue,"$205,227.75",EUR,Business Development,Bank Transfer,Completed,APR-82422
+TXN-000742,2023-05-18,CUST-0214,Operating Expense,"$1,158.08",USD,Operations,,Pending,
+TXN-000743,2022-10-20,CUST-0026,Capital Expenditure,"$36,153.71",USD,Real Estate,Bank Transfer,Completed,APR-79457
+TXN-000744,2024-06-29,CUST-0005,Operating Expense,"$6,183.38",GBP,IT,Bank Transfer,Completed,APR-91517
+TXN-000745,2023-03-22,CUST-0011,Capital Expenditure,"$38,449.45",CAD,Operations,Bank Transfer,Completed,APR-51196
+TXN-000746,2022-08-03,CUST-0025,Tax Payment,"$23,352.14",USD,Finance,Bank Transfer,Completed,APR-93336
+TXN-000747,2023-03-10,CUST-0008,Revenue,"$92,491.46",EUR,Partnerships,Bank Transfer,Completed,APR-88274
+TXN-000748,2022-08-11,CUST-0108,Investment,"$25,354.12",USD,Finance,Credit Card,Failed,
+TXN-000749,2024-08-09,CUST-0022,Capital Expenditure,"$19,105.63",USD,IT,Credit Card,Completed,APR-15323
+TXN-000750,2023-03-10,CUST-0011,Operating Expense,"$5,952.00",GBP,HR,Internal Transfer,Completed,APR-30093
+TXN-000751,2022-10-12,CUST-0068,Revenue,"$153,750.32",USD,Partnerships,Credit Card,Completed,APR-59117
+TXN-000752,2023-04-10,CUST-0138,Revenue,"$37,762.82",USD,Sales,Bank Transfer,Completed,APR-49564
+TXN-000753,2024-11-11,CUST-0044,Loan Repayment,"$6,378.34",USD,Treasury,Direct Debit,Failed,
+TXN-000754,2024-03-11,CUST-0005,Capital Expenditure,"$11,810.80",USD,Operations,Bank Transfer,Completed,APR-59032
+TXN-000755,2024-08-24,CUST-0110,Revenue,"$22,939.97",EUR,Business Development,Credit Card,Completed,APR-19257
+TXN-000756,2024-10-31,CUST-0003,Operating Expense,"$3,928.73",USD,Finance,Cheque,Completed,APR-23243
+TXN-000757,2024-10-10,CUST-0071,Revenue,"$19,450.71",GBP,Partnerships,,Pending,
+TXN-000758,2024-07-06,CUST-0002,Revenue,"$65,497.89",EUR,Business Development,Bank Transfer,Completed,APR-96096
+TXN-000759,2023-08-24,CUST-0110,Revenue,"$25,037.57",EUR,Business Development,Cheque,Completed,APR-59192
+TXN-000760,2024-01-26,CUST-0088,Operating Expense,"$3,876.00",GBP,Finance,Bank Transfer,Completed,APR-45871
+TXN-000761,2023-06-15,CUST-0167,Revenue,"$33,526.04",USD,Partnerships,Internal Transfer,Completed,APR-36120
+TXN-000762,2023-04-26,CUST-0002,Refund,"$2,389.61",CAD,Customer Success,Direct Debit,Completed,APR-99483
+TXN-000763,2023-12-24,CUST-0162,Operating Expense,"$13,791.09",EUR,IT,Credit Card,Completed,APR-82030
+TXN-000764,2022-11-25,CUST-0073,Investment,"$40,293.18",USD,Finance,Credit Card,Pending,
+TXN-000765,2024-09-22,CUST-0091,Revenue,"$48,896.43",EUR,Sales,Direct Debit,Completed,APR-46645
+TXN-000766,2023-12-10,CUST-0029,Refund,"$1,375.45",USD,Customer Success,Cheque,Completed,APR-73527
+TXN-000767,2024-10-19,CUST-0172,Investment,"$68,938.78",USD,Finance,,Failed,
+TXN-000768,2022-08-22,CUST-0009,Revenue,"$17,380.37",JPY,Sales,Cheque,Completed,APR-76232
+TXN-000769,2022-11-06,CUST-0017,Revenue,"$124,815.11",CAD,Business Development,Credit Card,Completed,APR-11836
+TXN-000770,2023-10-15,CUST-0160,Revenue,"$25,424.05",GBP,Partnerships,Bank Transfer,Completed,APR-26889
+TXN-000771,2024-03-24,CUST-0041,Revenue,"$95,927.06",GBP,Sales,Direct Debit,Failed,
+TXN-000772,2024-04-14,CUST-0265,Loan Repayment,"$5,581.54",GBP,Finance,Bank Transfer,Completed,APR-64281
+TXN-000773,2024-10-27,CUST-0053,Revenue,"$74,062.28",CAD,Business Development,Credit Card,Under Review,APR-52523
+TXN-000774,2024-08-28,CUST-0025,Loan Repayment,"$15,892.60",GBP,Treasury,Credit Card,Completed,APR-13505
+TXN-000775,2024-05-24,CUST-0025,Revenue,"$65,441.63",GBP,Business Development,Internal Transfer,Completed,APR-61622
+TXN-000776,2023-12-31,CUST-0045,Operating Expense,"$3,944.27",CAD,Finance,Bank Transfer,Completed,APR-83211
+TXN-000777,2023-11-22,CUST-0011,Loan Repayment,"$7,408.59",USD,Finance,Crypto,Completed,APR-98750
+TXN-000778,2024-01-19,CUST-0007,Capital Expenditure,"$10,494.61",GBP,Real Estate,Bank Transfer,Completed,APR-32570
+TXN-000779,2024-08-19,CUST-0204,Operating Expense,"$8,576.48",EUR,Operations,Bank Transfer,Completed,APR-80261
+TXN-000780,2023-04-26,CUST-0027,Refund,"$3,168.60",USD,Finance,Direct Debit,Completed,APR-59369
+TXN-000781,2024-10-11,CUST-0050,Revenue,"$75,196.40",USD,Partnerships,Cheque,Pending,
+TXN-000782,2023-07-28,CUST-0209,Operating Expense,"$1,183.63",GBP,IT,Direct Debit,Completed,APR-34759
+TXN-000783,2023-05-06,CUST-0135,Operating Expense,"$2,417.71",JPY,IT,Bank Transfer,Completed,APR-25039
+TXN-000784,2024-09-06,CUST-0252,Revenue,"$60,457.84",USD,Business Development,Cheque,Completed,APR-27511
+TXN-000785,2024-05-10,CUST-0066,Revenue,"$136,032.05",USD,Sales,Bank Transfer,Completed,APR-48418
+TXN-000786,2024-06-26,CUST-0167,Operating Expense,"$5,261.33",GBP,HR,Bank Transfer,Completed,APR-66954
+TXN-000787,2024-09-07,CUST-0001,Revenue,"$33,067.73",JPY,Partnerships,Direct Debit,Completed,APR-79130
+TXN-000788,2023-09-26,CUST-0062,Operating Expense,"$8,567.25",USD,HR,Bank Transfer,Completed,APR-64068
+TXN-000789,2023-12-10,CUST-0027,Capital Expenditure,"$23,258.13",EUR,Operations,,Pending,
+TXN-000790,2024-01-02,CUST-0130,Loan Repayment,"$13,431.12",USD,Finance,Cheque,Completed,APR-22541
+TXN-000791,2023-10-09,CUST-0011,Revenue,"$98,479.06",JPY,Partnerships,Bank Transfer,Completed,APR-41944
+TXN-000792,2022-12-22,CUST-0023,Capital Expenditure,"$21,521.16",GBP,Real Estate,Credit Card,Completed,APR-55892
+TXN-000793,2022-09-24,CUST-0099,Refund,"$1,747.79",USD,Finance,Internal Transfer,Under Review,
+TXN-000794,2023-05-05,CUST-0088,Revenue,"$41,340.52",USD,Business Development,Internal Transfer,Pending,APR-48025
+TXN-000795,2024-12-25,CUST-0012,Revenue,"$62,478.36",USD,Sales,Bank Transfer,Completed,APR-39864
+TXN-000796,2022-05-25,CUST-0194,Operating Expense,"$3,514.76",USD,HR,Direct Debit,Pending,
+TXN-000797,2024-04-21,CUST-0246,Revenue,"$43,317.28",USD,Business Development,Direct Debit,Completed,APR-98639
+TXN-000798,2024-01-17,CUST-0001,Operating Expense,"$2,718.63",EUR,Finace,Bank Transfer,Under Review,APR-61585
+TXN-000799,2022-09-09,CUST-0011,Operating Expense,"$3,964.23",CAD,Finance,Bank Transfer,Failed,
+TXN-000800,2024-03-03,CUST-0100,Operating Expense,"$3,145.56",CAD,HR,Bank Transfer,Completed,APR-72811
+TXN-000801,2023-01-08,CUST-0001,Revenue,"$253,338.61",EUR,Business Development,Bank Transfer,Completed,APR-76536
+TXN-000802,2024-04-07,CUST-0018,Operating Expense,"$3,707.57",JPY,IT,Cheque,Completed,APR-64937
+TXN-000803,2024-06-25,CUST-0101,Revenue,"$26,933.07",GBP,Business Development,,Pending,APR-78740
+TXN-000804,2024-11-20,CUST-0076,Tax Payment,"$24,779.16",USD,Legal,Internal Transfer,Completed,APR-50268
+TXN-000805,2024-03-09,CUST-0001,Revenue,"$93,405.37",USD,Sales,Direct Debit,Under Review,APR-15349
+TXN-000806,2024-10-08,CUST-0037,Investment,"$20,509.07",USD,Treasury,Direct Debit,Completed,APR-24953
+TXN-000807,2022-10-16,CUST-0151,Investment,"$45,906.93",EUR,Finance,Cheque,Completed,APR-95734
+TXN-000808,2024-09-28,CUST-0227,Tax Payment,"$20,728.27",USD,Legal,Credit Card,Completed,APR-33913
+TXN-000809,2022-11-07,CUST-0289,Capital Expenditure,"$7,271.17",USD,IT,Credit Card,Completed,APR-14495
+TXN-000810,2023-04-05,CUST-0016,Revenue,"$22,856.97",GBP,Business Development,Direct Debit,Completed,APR-76514
+TXN-000811,2024-08-15,CUST-0001,Capital Expenditure,"$7,361.58",USD,Real Estate,Bank Transfer,Completed,APR-51697
+TXN-000812,2024-03-14,CUST-0017,Revenue,"$63,743.07",USD,Sales,,Pending,APR-37040
+TXN-000813,2024-01-06,CUST-0116,Revenue,"$85,078.31",EUR,Business Development,Direct Debit,Completed,APR-42804
+TXN-000814,2024-08-12,CUST-0029,Capital Expenditure,"$30,473.54",USD,Operations,Cheque,Completed,APR-63493
+TXN-000815,2023-04-05,CUST-0121,Investment,"$42,529.47",USD,Finance,Bank Transfer,Completed,APR-34876
+TXN-000816,2024-11-10,CUST-0250,Operating Expense,"$6,897.22",EUR,Finance,Credit Card,Completed,APR-69836
+TXN-000817,2023-04-05,CUST-0108,Investment,"$26,021.35",USD,Finance,Credit Card,Completed,APR-38345
+TXN-000818,2023-02-22,CUST-0004,Revenue,"$28,666.16",GBP,Sales,Bank Transfer,Completed,APR-17217
+TXN-000819,2023-08-01,CUST-0102,Operating Expense,"$10,040.42",USD,Marketing,Direct Debit,Completed,APR-95044
+TXN-000820,2024-06-28,CUST-0031,Operating Expense,"$6,387.73",USD,Operations,Crypto,Completed,APR-34037
+TXN-000821,2023-09-06,CUST-0005,Tax Payment,"$13,931.05",GBP,Legal,Crypto,Completed,APR-66235
+TXN-000822,2024-06-20,CUST-0193,Operating Expense,"$2,466.96",USD,Finance,Bank Transfer,Completed,APR-22352
+TXN-000823,2024-10-14,CUST-0225,Operating Expense,"$9,930.06",USD,HR,Bank Transfer,Pending,
+TXN-000824,2024-12-28,CUST-0012,Revenue,"$34,511.05",USD,Partnerships,Credit Card,Failed,
+TXN-000825,2024-09-25,CUST-0075,Capital Expenditure,"$21,525.72",USD,Operations,Bank Transfer,Completed,APR-34604
+TXN-000826,2024-09-18,CUST-0028,Operating Expense,"$5,047.01",USD,Finance,Bank Transfer,Completed,APR-73610
+TXN-000827,2023-09-16,CUST-0070,Investment,"$41,083.95",GBP,Finance,Direct Debit,Failed,
+TXN-000828,2023-04-11,CUST-0016,Operating Expense,"$1,601.42",USD,Operations,Credit Card,Completed,APR-94192
+TXN-000829,2024-09-30,CUST-0004,Operating Expense,"$9,128.99",CAD,Operations,Credit Card,Completed,APR-66591
+TXN-000830,2024-12-18,CUST-0089,Operating Expense,"$21,805.42",USD,HR,Bank Transfer,Failed,
+TXN-000831,2023-04-15,CUST-0004,Loan Repayment,"$22,115.66",EUR,Finance,Credit Card,Completed,APR-64655
+TXN-000832,2024-11-13,CUST-0053,Capital Expenditure,"$42,655.51",GBP,Operations,Bank Transfer,Completed,APR-41168
+TXN-000833,2024-04-01,CUST-0035,Revenue,"$140,674.41",USD,Sales,Direct Debit,Completed,APR-29776
+TXN-000834,2024-01-01,CUST-0228,Capital Expenditure,"$18,492.09",GBP,Real Estate,Credit Card,Completed,APR-27555
+TXN-000835,2023-11-17,CUST-0031,Operating Expense,"$4,976.19",USD,Finance,Bank Transfer,Completed,APR-12965
+TXN-000836,2024-12-23,CUST-0018,Investment,"$40,495.69",USD,Treasury,Bank Transfer,Pending,
+TXN-000837,2023-05-17,CUST-0094,Revenue,"$90,740.66",GBP,Business Development,Credit Card,Completed,APR-74167
+TXN-000838,2022-06-20,CUST-0001,Capital Expenditure,"$6,961.31",USD,Real Estate,Credit Card,Completed,APR-98414
+TXN-000839,2024-03-05,CUST-0210,Investment,"$51,990.71",GBP,Business Development,Bank Transfer,Completed,APR-43526
+TXN-000840,2024-04-10,CUST-0002,Investment,"$79,105.03",USD,Finance,Credit Card,Completed,APR-22698
+TXN-000841,2024-01-05,CUST-0237,Operating Expense,"$2,313.61",EUR,HR,Bank Transfer,Completed,APR-86609
+TXN-000842,2024-06-27,CUST-0072,Revenue,"$134,374.33",GBP,Partnerships,Credit Card,Completed,APR-41617
+TXN-000843,2022-04-20,CUST-0065,Revenue,"$31,711.78",GBP,Sales,Direct Debit,Completed,APR-97279
+TXN-000844,2024-11-15,CUST-0126,Refund,"$1,185.43",USD,Finance,Direct Debit,Completed,APR-44389
+TXN-000845,2024-01-23,CUST-0135,Revenue,"$60,879.14",USD,Sales,Direct Debit,Completed,APR-94446
+TXN-000846,2022-04-27,CUST-0043,Revenue,"$29,105.38",USD,Sales,Bank Transfer,Completed,APR-12837
+TXN-000847,2024-12-27,CUST-0042,Revenue,"$24,722.26",GBP,Partnerships,Direct Debit,Completed,APR-82109
+TXN-000848,2022-03-21,CUST-0128,Investment,"$98,475.86",GBP,Treasury,Bank Transfer,Completed,APR-41305
+TXN-000849,2024-08-02,CUST-0060,Operating Expense,"$3,064.74",GBP,HR,Bank Transfer,Completed,APR-62154
+TXN-000850,2023-10-19,CUST-0106,Capital Expenditure,"$17,418.11",USD,IT,Credit Card,Completed,APR-42258
+TXN-000851,2023-06-10,CUST-0032,Revenue,"$204,216.33",USD,Partnerships,Cheque,Completed,APR-20805
+TXN-000852,2024-02-04,CUST-0083,Revenue,"$62,168.12",USD,Business Development,Direct Debit,Completed,APR-70169
+TXN-000853,2023-09-15,CUST-0200,Operating Expense,"$2,644.11",EUR,IT,Direct Debit,Completed,APR-36198
+TXN-000854,2022-11-02,CUST-0042,Revenue,"$21,625.62",USD,Partnerships,Credit Card,Completed,APR-79594
+TXN-000855,2023-09-18,CUST-0038,Operating Expense,"$14,166.47",EUR,Operations,Credit Card,Completed,APR-70922
+TXN-000856,2024-05-21,CUST-0018,Loan Repayment,"$13,679.18",USD,Finance,Bank Transfer,Completed,APR-28918
+TXN-000857,2024-11-17,CUST-0086,Investment,"$8,934.30",JPY,Treasury,Internal Transfer,Completed,APR-24461
+TXN-000858,2024-05-14,CUST-0229,Revenue,"$20,365.07",EUR,Sales,Bank Transfer,Completed,APR-39994
+TXN-000859,2024-08-22,CUST-0001,Revenue,"$50,484.85",USD,Partnerships,Bank Transfer,Under Review,
+TXN-000860,2024-07-24,CUST-0048,Revenue,"$51,314.14",USD,Sales,Direct Debit,Completed,APR-80287
+TXN-000861,2022-01-13,CUST-0152,Capital Expenditure,"$50,094.69",EUR,Real Estate,Credit Card,Completed,APR-67702
+TXN-000862,2024-12-16,CUST-0058,Revenue,"$39,328.88",USD,Sales,Direct Debit,Failed,
+TXN-000863,2024-08-23,CUST-0266,Loan Repayment,"$5,911.55",EUR,Treasury,Credit Card,Completed,APR-19214
+TXN-000864,2023-06-01,CUST-0026,Investment,"$47,115.16",CAD,Treasury,,Pending,
+TXN-000865,2024-08-11,CUST-0161,Revenue,"$41,917.97",USD,Business Development,Credit Card,Pending,
+TXN-000866,2023-04-30,CUST-0118,Operating Expense,"$6,694.64",USD,HR,Bank Transfer,Completed,APR-58758
+TXN-000867,2022-09-28,CUST-0062,Tax Payment,"$19,632.52",USD,Legal,Bank Transfer,Failed,
+TXN-000868,2023-01-24,CUST-0003,Operating Expense,"$10,525.89",EUR,Finance,Credit Card,Completed,APR-24699
+TXN-000869,2022-06-25,CUST-0100,Revenue,"$62,124.26",USD,Business Development,Bank Transfer,Completed,APR-21410
+TXN-000870,2023-10-30,CUST-0020,Tax Payment,"$15,873.84",USD,Finance,Bank Transfer,Completed,APR-32475
+TXN-000871,2024-04-22,CUST-0185,Operating Expense,"$10,283,273.33",USD,Operations,Bank Transfer,Completed,APR-53073
+TXN-000872,2024-01-02,CUST-0004,Operating Expense,"$11,477.37",CAD,IT,Credit Card,Pending,
+TXN-000873,2023-12-23,CUST-0050,Refund,"$2,722.63",USD,Finance,Bank Transfer,Completed,APR-68590
+TXN-000874,2023-07-13,CUST-0051,Operating Expense,"$4,939.58",GBP,IT,,Pending,
+TXN-000875,2023-12-21,CUST-0113,Loan Repayment,"$13,305.71",GBP,Finance,Cheque,Completed,APR-40421
+TXN-000876,2023-08-06,CUST-0001,Operating Expense,"$1,817.09",USD,Marketing,Bank Transfer,Completed,APR-99833
+TXN-000877,2023-10-18,CUST-0109,Operating Expense,"$10,720.49",USD,IT,Bank Transfer,Completed,APR-64543
+TXN-000878,2023-07-13,CUST-0001,Revenue,"$120,648.00",USD,Sales,Internal Transfer,Completed,APR-42761
+TXN-000872,2024-11-27,CUST-0018,Loan Repayment,"$5,886.56",GBP,Treasury,Internal Transfer,Failed,
+TXN-000880,2024-09-08,CUST-0075,Refund,"$1,692.31",EUR,Customer Success,Bank Transfer,Completed,APR-60197
+TXN-000881,2022-12-18,CUST-0257,Capital Expenditure,"$29,386.74",USD,IT,Bank Transfer,Completed,APR-24551
+TXN-000882,2024-01-06,CUST-0160,Operating Expense,"$5,598.75",GBP,Marketing,Crypto,Completed,APR-46076
+TXN-000883,2024-11-20,CUST-0098,Capital Expenditure,"$20,221.74",USD,Real Estate,Bank Transfer,Completed,APR-80161
+TXN-000884,2024-02-16,CUST-0171,Revenue,"$126,838.40",EUR,Business Development,Bank Transfer,Completed,APR-19074
+TXN-000885,2023-03-23,CUST-0002,Operating Expense,"$2,434.59",GBP,IT,Credit Card,Completed,APR-27393
+TXN-000886,2024-04-05,CUST-0015,Operating Expense,"$3,279.16",USD,Finance,Credit Card,Completed,APR-19652
+TXN-000887,2023-04-04,CUST-0191,Operating Expense,"$4,848.94",USD,IT,Internal Transfer,Completed,APR-18629
+TXN-000888,2024-09-02,CUST-0124,Investment,"$13,089.41",GBP,Treasury,Credit Card,Completed,APR-97786
+TXN-000889,2024-08-16,CUST-0036,Investment,"$33,761.51",EUR,Finance,Bank Transfer,Completed,APR-88495
+TXN-000890,2024-04-11,CUST-0105,Operating Expense,"$3,372.69",USD,Finance,Credit Card,Completed,APR-28465
+TXN-000891,2024-07-27,CUST-0002,Refund,$806.06,USD,Sales,Bank Transfer,Failed,
+TXN-000892,2022-11-08,CUST-0021,Operating Expense,"$2,655.48",USD,Operations,Bank Transfer,Pending,
+TXN-000893,2023-02-17,CUST-0136,Operating Expense,"$3,455.28",USD,IT,Direct Debit,Completed,APR-94424
+TXN-000894,2023-06-09,CUST-0034,Operating Expense,"$4,456.01",USD,HR,Crypto,Completed,APR-55108
+TXN-000895,2022-07-24,CUST-0070,Investment,"$35,281.07",EUR,Finance,Credit Card,Completed,APR-17949
+TXN-000896,2024-08-23,CUST-0087,Investment,"$28,263.61",USD,Business Development,Cheque,Completed,APR-55044
+TXN-000897,2024-03-19,CUST-0135,Revenue,"$31,342.72",EUR,Partnerships,Credit Card,Completed,APR-20001
+TXN-000898,2022-01-04,CUST-0002,Operating Expense,"$23,433.82",USD,Operations,Credit Card,Completed,APR-30167
+TXN-000899,2023-06-12,CUST-0086,Refund,"$1,934.88",CAD,Sales,Bank Transfer,Completed,APR-77838
+TXN-000900,2024-04-05,CUST-0238,Investment,"$37,393.77",EUR,Business Development,Credit Card,Completed,APR-41777
+TXN-000901,2024-05-07,CUST-0001,Operating Expense,"$10,261.53",EUR,HR,Crypto,Completed,APR-41440
+TXN-000902,2024-05-31,CUST-0001,Operating Expense,"$2,706.28",USD,IT,Credit Card,Pending,APR-45193
+TXN-000903,2024-11-05,CUST-0296,Capital Expenditure,"$9,047.88",USD,Operations,Direct Debit,Completed,APR-72973
+TXN-000904,2022-09-04,CUST-0036,Tax Payment,"$6,824.53",GBP,Legal,Bank Transfer,Completed,APR-88617
+TXN-000905,2023-08-07,CUST-0075,Operating Expense,"$3,337.89",USD,Marketing,Direct Debit,Completed,APR-96853
+TXN-000906,2023-01-07,CUST-0032,Refund,"$1,205.50",CAD,Customer Success,Internal Transfer,Completed,APR-63930
+TXN-000907,2024-08-30,CUST-0213,Capital Expenditure,"$31,670.37",USD,Operations,Bank Transfer,Completed,APR-31560
+TXN-000908,2022-04-03,CUST-0054,Revenue,"$40,717.58",EUR,Sales,Bank Transfer,Completed,APR-65457
+TXN-000909,2022-11-21,CUST-0028,Operating Expense,"$6,206.12",USD,IT,Bank Transfer,Completed,APR-95662
+TXN-000910,2023-11-18,CUST-0169,Revenue,"$54,254.23",USD,Business Development,Bank Transfer,Failed,
+TXN-000911,2022-04-07,CUST-0037,Operating Expense,"$4,350.74",USD,HR,Bank Transfer,Completed,APR-84836
+TXN-000912,2023-12-04,CUST-0300,Investment,"$44,517.29",GBP,Finance,Bank Transfer,Completed,APR-35015
+TXN-000913,2024-12-22,CUST-0044,Revenue,"$102,484.80",USD,Sales,Internal Transfer,Completed,APR-49554
+TXN-000914,2024-11-11,CUST-0105,Revenue,"$16,837.44",GBP,Partnerships,Cheque,Completed,APR-94540
+TXN-000915,2022-12-19,CUST-0024,Revenue,"$53,051.96",USD,Business Development,Credit Card,Under Review,
+TXN-000916,2023-09-28,CUST-0056,Tax Payment,"$5,513.58",USD,Legal,Credit Card,Completed,APR-47885
+TXN-000917,2023-09-14,CUST-0065,Refund,"$1,795.86",USD,Customer Success,Bank Transfer,Completed,APR-19679
+TXN-000918,2022-10-13,CUST-0040,Revenue,"$89,266.52",USD,Partnerships,Credit Card,Failed,APR-23007
+TXN-000919,2024-09-26,CUST-0040,Revenue,"$22,291.90",USD,Business Development,Credit Card,Completed,APR-37923
+TXN-000920,2024-05-12,CUST-0097,Investment,"$38,512.76",USD,Business Development,Direct Debit,Under Review,
+TXN-000921,2024-11-21,CUST-0241,Refund,$531.97,USD,Customer Success,Direct Debit,Completed,APR-68500
+TXN-000922,2024-08-21,CUST-0048,Investment,"$34,052.94",GBP,Business Development,Direct Debit,Completed,APR-85336
+TXN-000923,2023-10-29,CUST-0016,Investment,"$19,675.24",JPY,Business Development,Bank Transfer,Under Review,
+TXN-000924,2023-05-22,CUST-0001,Refund,"$2,014.62",EUR,Finace,Direct Debit,Completed,APR-86884
+TXN-000925,2023-12-21,CUST-0269,Operating Expense,"$5,143.05",USD,IT,Crypto,Completed,APR-95402
+TXN-000926,2024-04-27,CUST-0012,Tax Payment,"$24,186.95",USD,Finance,,Pending,
+TXN-000927,2023-08-10,CUST-0038,Refund,"$1,158.13",EUR,Finance,Direct Debit,Under Review,
+TXN-000928,2023-03-30,CUST-0033,Operating Expense,"$8,149.26",USD,Finance,Credit Card,Completed,APR-60519
+TXN-000929,2024-10-11,CUST-0028,Revenue,"$76,317.27",GBP,Sales,Direct Debit,Completed,APR-60934
+TXN-000930,2024-03-17,CUST-0191,Tax Payment,"$17,893.55",USD,Legal,Bank Transfer,Completed,APR-13297
+TXN-000931,2024-03-23,CUST-0009,Revenue,"$22,146.08",EUR,Partnerships,Direct Debit,Failed,
+TXN-000932,2024-02-12,CUST-0029,Tax Payment,"$10,441.39",USD,Finance,Bank Transfer,Completed,APR-59009
+TXN-000933,2024-09-22,CUST-0212,Revenue,"$35,683.53",EUR,Business Development,Bank Transfer,Completed,APR-15549
+TXN-000934,2024-05-24,CUST-0007,Revenue,"$57,688.02",USD,Sales,Direct Debit,Completed,APR-66276
+TXN-000935,2024-01-27,CUST-0151,Tax Payment,"$16,018.92",JPY,Finance,Bank Transfer,Completed,APR-70229
+TXN-000936,2024-01-18,CUST-0041,Capital Expenditure,"$6,079.41",GBP,Real Estate,Bank Transfer,Completed,APR-37500
+TXN-000937,2024-12-25,CUST-0003,Revenue,"$106,064.08",GBP,Business Development,Bank Transfer,Under Review,APR-53443
+TXN-000938,2023-11-03,CUST-0049,Capital Expenditure,"$23,198.34",USD,Operations,Internal Transfer,Completed,APR-11924
+TXN-000939,2024-01-03,CUST-0261,Revenue,"$28,728.87",GBP,Business Development,Bank Transfer,Pending,
+TXN-000940,2024-06-02,CUST-0016,Revenue,"$95,950.80",GBP,Partnerships,Bank Transfer,Completed,APR-50649
+TXN-000941,2024-12-30,CUST-0074,Revenue,"$26,553.24",USD,Business Development,Bank Transfer,Completed,APR-58871
+TXN-000942,2024-01-13,CUST-0227,Investment,"$42,692.97",EUR,Treasury,Direct Debit,Completed,APR-91230
+TXN-000943,2024-06-30,CUST-0011,Investment,"$32,083.39",USD,IT ,Bank Transfer,Completed,APR-62430
+TXN-000944,2022-11-28,CUST-0208,Revenue,"$57,013.97",USD,Partnerships,Direct Debit,Completed,APR-61301
+TXN-000945,2024-09-17,CUST-0241,Loan Repayment,"$16,032.48",USD,Finance,,Pending,
+TXN-000946,2023-07-23,CUST-0104,Capital Expenditure,"$38,715.91",EUR,IT,Direct Debit,Completed,APR-36030
+TXN-000947,2024-04-20,CUST-0061,Operating Expense,"$2,681.14",JPY,HR,Credit Card,Completed,APR-64259
+TXN-000948,2023-10-28,CUST-0021,Revenue,"$23,308.85",USD,Partnerships,Credit Card,Completed,APR-92861
+TXN-000949,2024-06-27,CUST-0028,Revenue,"$97,202.92",USD,Sales,Bank Transfer,Completed,APR-73131
+TXN-000950,2022-05-27,CUST-0050,Refund,$773.16,CAD,Customer Success,Direct Debit,Completed,APR-18359
+TXN-000951,2023-01-17,CUST-0058,Loan Repayment,"$8,644.96",USD,Finance,Bank Transfer,Completed,APR-51223
+TXN-000952,2024-01-27,CUST-0153,Capital Expenditure,"$22,786.96",USD,IT,Direct Debit,Failed,
+TXN-000953,2024-07-29,CUST-0042,Investment,"$21,024.27",GBP,Business Development,Cheque,Completed,APR-67352
+TXN-000954,2024-04-26,CUST-0162,Revenue,"$31,602.27",USD,Business Development,,Pending,
+TXN-000955,2023-11-26,CUST-0031,Revenue,"$46,279.93",USD,Sales,Direct Debit,Pending,
+TXN-000956,2023-09-07,CUST-0234,Investment,"$17,084.58",USD,Treasury,,Failed,
+TXN-000957,2022-10-17,CUST-0023,Tax Payment,"$7,684.13",JPY,Finance,Credit Card,Completed,APR-71523
+TXN-000958,2024-09-11,CUST-0052,Operating Expense,"$5,716.70",USD,HR,Bank Transfer,Completed,APR-34388
+TXN-000959,2022-09-05,CUST-0175,Investment,"$38,306.72",USD,Finance,Cheque,Completed,APR-14729
+TXN-000960,2024-11-23,CUST-0202,Revenue,"$85,091.12",GBP,Partnerships,Direct Debit,Completed,APR-29462
+TXN-000961,2023-05-21,CUST-0002,Refund,"$1,813.29",USD,Sales,,Failed,APR-96798
+TXN-000962,2024-10-08,CUST-0167,Operating Expense,"$9,452.76",USD,Operations,Bank Transfer,Completed,APR-84324
+TXN-000963,2023-12-14,CUST-0284,Operating Expense,"$2,733.86",USD,Marketing,Direct Debit,Completed,APR-52495
+TXN-000964,2022-01-09,CUST-0116,Loan Repayment,"$7,050.16",EUR,Treasury,Internal Transfer,Completed,APR-41360
+TXN-000965,2024-03-21,CUST-0062,Revenue,"$115,689.36",USD,Sales,Cheque,Completed,APR-62910
+TXN-000966,2022-01-12,CUST-0001,Revenue,"$49,798.82",GBP,Partnerships,,Failed,
+TXN-000967,2023-01-03,CUST-0062,Loan Repayment,"$16,499.35",GBP,Treasury,Bank Transfer,Completed,APR-50922
+TXN-000968,2024-05-25,CUST-0223,Capital Expenditure,"$11,332.18",JPY,Operations,,Pending,APR-44624
+TXN-000969,2022-01-01,CUST-0007,Operating Expense,"$4,962.05",USD,IT,Bank Transfer,Completed,APR-18732
+TXN-000970,2024-10-01,CUST-0261,Revenue,"$45,391.75",USD,Partnerships,Bank Transfer,Completed,APR-15001
+TXN-000971,2023-01-23,CUST-0038,Revenue,"$44,855.77",USD,Sales,Direct Debit,Completed,APR-44401
+TXN-000972,2024-06-15,CUST-0078,Operating Expense,"$10,168.20",GBP,HR,Credit Card,Completed,APR-28997
+TXN-000973,2023-07-14,CUST-0023,Investment,"$15,451.83",EUR,Business Development,Internal Transfer,Completed,APR-45183
+TXN-000974,2024-10-11,CUST-0001,Capital Expenditure,"$32,269.26",EUR,Real Estate,Bank Transfer,Completed,APR-91838
+TXN-000975,2024-01-06,CUST-0155,Capital Expenditure,"$11,461.54",USD,Real Estate,Credit Card,Completed,APR-44173
+TXN-000976,2023-04-26,CUST-0003,Tax Payment,"$14,231.59",GBP,Legal,Bank Transfer,Completed,APR-69584
+TXN-000977,2024-10-01,CUST-0107,Loan Repayment,"$11,362.31",USD,Treasury,Credit Card,Completed,APR-25382
+TXN-000978,2023-05-27,CUST-0002,Loan Repayment,"$16,096.37",USD,Treasury,Bank Transfer,Completed,APR-68725
+TXN-000979,2022-09-24,CUST-0223,Revenue,"$91,983.81",GBP,Business Development,Bank Transfer,Completed,APR-86171
+TXN-000980,2024-09-24,CUST-0126,Revenue,"$53,238.26",USD,Partnerships,Bank Transfer,Completed,APR-90066
+TXN-000981,2024-08-05,CUST-0042,Investment,"$38,749.84",GBP,Finance,Direct Debit,Completed,APR-49260
+TXN-000982,2024-04-29,CUST-0139,Operating Expense,"$9,953.58",USD,Finance,,Pending,
+TXN-000983,2024-08-19,CUST-0039,Tax Payment,"$3,783.29",USD,Finance,Cheque,Completed,APR-81110
+TXN-000984,2024-05-06,CUST-0092,Revenue,"$21,581.17",USD,Business Development,Bank Transfer,Completed,APR-11310
+TXN-000985,2024-10-22,CUST-0004,Revenue,"$29,963.15",USD,Partnerships,Crypto,Completed,APR-27188
+TXN-000986,2022-09-28,CUST-0001,Tax Payment,"$40,265.99",USD,Legal,Direct Debit,Completed,APR-96782
+TXN-000987,2024-05-26,CUST-0013,Operating Expense,"$4,623.97",USD,HR,Bank Transfer,Completed,APR-16495
+TXN-000988,2024-05-16,CUST-0253,Revenue,"$23,319.88",USD,Business Development,Bank Transfer,Completed,APR-55411
+TXN-000989,2024-05-08,CUST-0003,Operating Expense,"$5,569.55",GBP,HR ,Bank Transfer,Completed,APR-74302
+TXN-000990,2023-02-19,CUST-0186,Capital Expenditure,"$20,683.06",EUR,Operations,Cheque,Completed,APR-31456
+TXN-000991,2023-10-13,CUST-0136,Loan Repayment,"$14,351.22",USD,Finance,Bank Transfer,Completed,APR-24439
+TXN-000992,2024-05-13,CUST-0011,Revenue,"$80,055.29",GBP,Business Development,Bank Transfer,Under Review,APR-73039
+TXN-000993,2024-06-09,CUST-0057,Loan Repayment,"$14,632.17",USD,Treasury,Direct Debit,Completed,APR-11137
+TXN-000994,2024-02-17,CUST-0109,Revenue,"$36,136.66",USD,Partnerships,,Failed,
+TXN-000995,2022-11-08,CUST-0292,Refund,$503.64,USD,Finance,Bank Transfer,Completed,APR-87182
+TXN-000996,2024-12-21,CUST-0031,Operating Expense,"$10,440.33",USD,IT,Direct Debit,Completed,APR-46842
+TXN-000997,2023-03-10,CUST-0211,Investment,"$44,087.97",USD,Business Development,Bank Transfer,Completed,APR-94196
+TXN-000998,2024-08-02,CUST-0011,Capital Expenditure,"$19,349.60",EUR,Operations,Bank Transfer,Completed,APR-81743
+TXN-000999,2024-08-09,CUST-0020,Revenue,"$77,084.82",USD,Partnerships,Direct Debit,Completed,APR-22237
+TXN-001000,2023-10-26,CUST-0243,Operating Expense,"$2,531.21",JPY,Marketing,Cheque,Completed,APR-16908
